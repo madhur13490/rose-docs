@@ -1,0 +1,8 @@
+base referer
+rect $classSgCommonBlockObject.html 5,161 179,188
+rect $classSgHeaderFileBody.html 203,161 339,188
+rect $classSgInitializedName.html 363,161 496,188
+rect $classSgInterfaceBody.html 520,161 645,188
+rect $classSgOmpClause.html 669,161 781,188
+rect $classSgRenamePair.html 805,161 917,188
+rect $classSgLocatedNode.html 445,7 565,33

@@ -1,0 +1,9 @@
+base referer
+rect $classSgAggregateInitializer.html 5,316 163,343
+rect $classSgAssignInitializer.html 187,316 323,343
+rect $classSgCompoundInitializer.html 347,316 509,343
+rect $classSgConstructorInitializer.html 533,316 701,343
+rect $classSgDesignatedInitializer.html 725,316 891,343
+rect $classSgExpression.html 375,161 481,188
+rect $classSgLocatedNode.html 368,84 488,111
+rect $classSgNode.html 393,7 463,33

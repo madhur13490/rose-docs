@@ -1,0 +1,5 @@
+base referer
+rect $classSgBitAttributeStorageClass.html 18,232 202,256
+rect $classSgAttributeStorageClass.html 26,158 194,182
+rect $classSgSupportStorageClass.html 27,83 192,107
+rect $classSgNodeStorageClass.html 35,8 184,32

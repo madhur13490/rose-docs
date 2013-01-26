@@ -1,0 +1,8 @@
+base referer
+rect $classSgOmpDoStatement.html 499,5 651,32
+rect $classSgOmpForStatement.html 499,56 651,83
+rect $classSgOmpParallelStatement.html 485,107 664,133
+rect $classSgOmpSectionsStatement.html 481,157 668,184
+rect $classSgOmpSingleStatement.html 489,208 660,235
+rect $classSgOmpTaskStatement.html 493,259 656,285
+rect $classSgOmpBodyStatement.html 7,132 172,159

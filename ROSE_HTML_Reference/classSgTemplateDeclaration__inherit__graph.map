@@ -1,0 +1,8 @@
+base referer
+rect $classSgTemplateClassDeclaration.html 5,393 208,420
+rect $classSgTemplateFunctionDeclaration.html 232,393 453,420
+rect $classSgDeclarationStatement.html 136,239 312,265
+rect $classSgStatement.html 173,161 275,188
+rect $classSgLocatedNode.html 164,84 284,111
+rect $classSgNode.html 189,7 259,33
+rect $classSgTemplateMemberFunctionDeclaration.html 207,471 479,497

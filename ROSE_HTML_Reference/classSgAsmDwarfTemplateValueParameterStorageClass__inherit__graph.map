@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmDwarfConstructStorageClass.html 52,307 289,331
+rect $classSgAsmDwarfInformationStorageClass.html 48,232 293,256
+rect $classSgAsmExecutableFileFormatStorageClass.html 33,157 308,181
+rect $classSgAsmNodeStorageClass.html 83,83 259,107
+rect $classSgNodeStorageClass.html 96,8 245,32

@@ -1,0 +1,3 @@
+base referer
+rect $InstructionEnumsX86_8h.html 200,5 368,32
+rect $AssemblerX86Init_8h.html 416,5 560,32

@@ -1,0 +1,4 @@
+base referer
+rect $classSgAsmGenericSection.html 5,7 168,33
+rect $classSgAsmElfSegmentTableEntry.html 192,7 397,33
+rect $classSgAsmElfSectionTableEntry.html 421,7 616,33

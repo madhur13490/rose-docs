@@ -1,0 +1,6 @@
+base referer
+rect $classSgPartialFunctionTypeStorageClass.html 32,307 264,331
+rect $classSgFunctionTypeStorageClass.html 51,157 245,181
+rect $classSgTypeStorageClass.html 75,83 221,107
+rect $classSgNodeStorageClass.html 73,8 223,32
+rect $classSgPartialFunctionModifierTypeStorageClass.html 7,381 289,405

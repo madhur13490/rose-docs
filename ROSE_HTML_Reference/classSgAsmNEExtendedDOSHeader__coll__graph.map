@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmGenericSection.html 410,189 564,213
+rect $classSgAsmGenericHeader.html 408,280 563,304
+rect $classSgAsmExecutableFileFormat.html 226,8 420,32
+rect $classSgAsmGenericFile.html 420,99 554,123
+rect $classSgAsmGenericString.html 250,99 396,123
+rect $classSgSharedVector.html 466,8 692,32
+rect $classExtentMap.html 667,99 752,123
+rect $structSgAsmNEExtendedDOSHeader_1_1ExtendedDOSHeader__disk.html 7,189 386,213

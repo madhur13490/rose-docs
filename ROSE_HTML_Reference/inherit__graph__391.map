@@ -1,0 +1,4 @@
+base referer
+rect $classVirtualCFG_1_1cfgRWTransaction_1_1modRequest.html 7,31 311,57
+rect $classVirtualCFG_1_1cfgRWTransaction_1_1insertRequest.html 375,5 687,32
+rect $classVirtualCFG_1_1cfgRWTransaction_1_1transformRequest.html 361,56 700,83

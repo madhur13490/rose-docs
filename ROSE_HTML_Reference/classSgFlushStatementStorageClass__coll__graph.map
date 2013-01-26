@@ -1,0 +1,5 @@
+base referer
+rect $classSgIOStatementStorageClass.html 16,232 208,256
+rect $classSgStatementStorageClass.html 23,158 201,182
+rect $classSgLocatedNodeStorageClass.html 13,83 211,107
+rect $classSgNodeStorageClass.html 37,8 187,32

@@ -1,0 +1,6 @@
+base referer
+rect $classSgDeclarationStatement.html 67,207 243,233
+rect $classSgStatement.html 5,105 107,132
+rect $classSgDeclarationModifier.html 277,105 437,132
+rect $classSgFormatItemList.html 479,207 609,233
+rect $classSgSupport.html 501,105 587,132

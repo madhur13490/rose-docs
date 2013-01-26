@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmExecutableFileFormat.html 403,87 605,113
+rect $classSgAsmGenericSection.html 289,279 452,305
+rect $classSgAsmGenericFile.html 293,183 429,209
+rect $classSgAsmGenericString.html 504,183 656,209
+rect $classSgAsmNode.html 455,7 553,33
+rect $classSgAsmGenericHeader.html 296,375 459,401
+rect $classSgSharedVector.html 5,87 179,113

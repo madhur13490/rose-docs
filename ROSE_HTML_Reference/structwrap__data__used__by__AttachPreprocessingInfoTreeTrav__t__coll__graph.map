@@ -1,0 +1,11 @@
+base referer
+rect $classROSEAttributesList.html 76,119 215,145
+rect $classSgLocatedNode.html 373,119 493,145
+rect $classSgStatement.html 509,215 611,241
+rect $classSgNode.html 539,409 608,436
+rect $classSgFunctionTypeTable.html 503,311 657,337
+rect $classSgLabelRefExp.html 517,119 635,145
+rect $classSgSymbolTable.html 676,215 793,241
+rect $classSgTypeTable.html 724,311 825,337
+rect $classAstAttributeMechanism.html 273,7 439,33
+rect $classSg__File__Info.html 479,7 575,33

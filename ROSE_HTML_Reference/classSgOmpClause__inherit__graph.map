@@ -1,0 +1,9 @@
+base referer
+rect $classSgOmpDefaultClause.html 399,5 559,32
+rect $classSgOmpExpressionClause.html 388,56 569,83
+rect $classSgOmpNowaitClause.html 401,107 556,133
+rect $classSgOmpOrderedClause.html 396,157 561,184
+rect $classSgOmpScheduleClause.html 393,208 564,235
+rect $classSgOmpUntiedClause.html 403,259 555,285
+rect $classSgOmpVariablesClause.html 393,309 564,336
+rect $classSgLocatedNodeSupport.html 5,157 176,184

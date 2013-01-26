@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmPESection.html 187,103 315,129
+rect $classSgAsmGenericSection.html 5,7 168,33
+rect $classSgAsmGenericStrtab.html 11,103 163,129
+rect $classSgAsmPESectionTableEntry.html 192,7 387,33
+rect $classSgAsmCoffStrtab.html 67,183 197,209

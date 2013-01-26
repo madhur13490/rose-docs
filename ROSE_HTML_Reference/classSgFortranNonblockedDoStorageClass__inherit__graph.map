@@ -1,0 +1,6 @@
+base referer
+rect $classSgFortranDoStorageClass.html 41,307 220,331
+rect $classSgScopeStatementStorageClass.html 23,232 239,256
+rect $classSgStatementStorageClass.html 41,157 220,181
+rect $classSgLocatedNodeStorageClass.html 32,83 229,107
+rect $classSgNodeStorageClass.html 56,8 205,32

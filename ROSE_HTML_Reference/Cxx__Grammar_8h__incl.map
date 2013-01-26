@@ -1,0 +1,6 @@
+base referer
+rect $rosedll_8h.html 240,5 315,32
+rect $rangemap_8h.html 228,157 327,184
+rect $InstructionEnumsX86_8h.html 193,512 361,539
+rect $DataConversion_8h.html 209,360 345,387
+rect $AssemblerX86Init_8h.html 421,512 565,539

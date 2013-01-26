@@ -1,0 +1,4 @@
+base referer
+rect $structFindConstantsPolicy.html 5,31 152,57
+rect $classCdeclFunctionPolicy.html 211,5 357,32
+rect $classFindConstantsABIPolicy.html 201,56 367,83

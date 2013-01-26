@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmNodeStorageClass.html 7,83 183,107
+rect $classSgLocatedNodeStorageClass.html 207,83 404,107
+rect $classSgSupportStorageClass.html 428,83 593,107
+rect $classSgSymbolStorageClass.html 617,83 780,107
+rect $classSgTypeStorageClass.html 804,83 951,107

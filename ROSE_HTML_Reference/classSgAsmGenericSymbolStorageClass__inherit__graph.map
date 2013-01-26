@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmCoffSymbolStorageClass.html 7,307 220,331
+rect $classSgAsmElfSymbolStorageClass.html 244,307 449,331
+rect $classSgAsmExecutableFileFormatStorageClass.html 92,158 367,182
+rect $classSgAsmNodeStorageClass.html 141,83 317,107
+rect $classSgNodeStorageClass.html 155,8 304,32

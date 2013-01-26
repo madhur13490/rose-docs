@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmBasicString.html 5,316 141,343
+rect $classSgAsmStoredString.html 165,316 309,343
+rect $classSgAsmExecutableFileFormat.html 53,161 256,188
+rect $classSgAsmNode.html 105,84 204,111
+rect $classSgNode.html 120,7 189,33

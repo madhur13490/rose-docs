@@ -1,0 +1,10 @@
+base referer
+rect $classAstRegExAttribute.html 220,5 353,32
+rect $classAstTextAttribute.html 227,56 347,83
+rect $classMetricAttribute.html 231,107 343,133
+rect $classnumCallersAttribute.html 213,157 360,184
+rect $classOmpSupport_1_1OmpAttributeList.html 177,208 396,235
+rect $classSageInterface_1_1UniqueNameAttribute.html 159,259 415,285
+rect $classssa__private_1_1VarUniqueName.html 184,309 389,336
+rect $classStaticCFG_1_1CFGEdgeAttribute.html 151,360 423,387
+rect $classStaticCFG_1_1CFGNodeAttribute.html 184,411 389,437

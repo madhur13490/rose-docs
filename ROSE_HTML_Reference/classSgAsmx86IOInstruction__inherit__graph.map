@@ -1,0 +1,11 @@
+base referer
+rect $classSgAsmx86In.html 435,7 533,31
+rect $classSgAsmx86Ins.html 432,55 536,79
+rect $classSgAsmx86Ldmxcsr.html 416,103 552,127
+rect $classSgAsmx86Out.html 431,151 537,175
+rect $classSgAsmx86Outs.html 427,199 541,223
+rect $classSgAsmx86Sldt.html 429,247 539,271
+rect $classSgAsmx86Stmxcsr.html 417,295 551,319
+rect $classSgAsmx86Verr.html 428,343 540,367
+rect $classSgAsmx86Verw.html 425,391 543,415
+rect $classSgAsmx86Instruction.html 8,199 155,223

@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmx86CmpsStorageClass.html 673,7 873,31
+rect $classSgAsmx86ConditionalFlagStringInstructionStorageClass.html 596,55 951,79
+rect $classSgAsmx86LodsStorageClass.html 676,103 871,127
+rect $classSgAsmx86MovsStorageClass.html 675,151 872,175
+rect $classSgAsmx86ScasStorageClass.html 676,199 871,223
+rect $classSgAsmx86StosStorageClass.html 677,247 869,271
+rect $classSgAsmx86InstructionStorageClass.html 8,127 235,151

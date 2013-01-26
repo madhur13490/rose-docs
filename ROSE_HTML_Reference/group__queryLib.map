@@ -1,0 +1,4 @@
+<map id="structs" name="structs">
+<area shape="rect" href="$group__localNodeQueryLib.html" title="This library simplifies the development of useful queries upon individual nodes of the AST..." alt="" coords="159,5,335,32"/>
+<area shape="rect" href="$group__subtreeQueryLib.html" title="This library simplifies the development of useful queries that require a traversal of any subtree of ..." alt="" coords="169,56,324,83"/>
+</map>

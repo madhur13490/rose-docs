@@ -1,0 +1,4 @@
+base referer
+rect $Loader_8h.html 199,56 276,83
+rect $LoaderELFObj_8h.html 177,107 297,133
+rect $LoaderELF_8h.html 347,107 445,133

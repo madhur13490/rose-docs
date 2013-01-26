@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmx86ConditionalFlagStringInstructionStorageClass.html 7,456 361,480
+rect $classSgAsmx86StringInstructionStorageClass.html 52,382 316,406
+rect $classSgAsmx86InstructionStorageClass.html 71,307 297,331
+rect $classSgAsmInstructionStorageClass.html 81,232 287,256
+rect $classSgAsmStatementStorageClass.html 81,158 287,182
+rect $classSgAsmNodeStorageClass.html 96,83 272,107
+rect $classSgNodeStorageClass.html 109,8 259,32

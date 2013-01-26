@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmGenericSupport.html 260,387 418,411
+rect $classSgAsmGenericSection.html 360,555 515,579
+rect $classSgAsmGenericFile.html 402,464 535,488
+rect $classSgAsmExecutableFileFormat.html 242,296 436,320
+rect $classSgAsmNode.html 386,205 482,229
+rect $classSgNode.html 239,107 308,131
+rect $classmutex.html 244,8 303,32
+rect $classAstAttributeMechanism.html 583,107 743,131

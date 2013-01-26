@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAssembler.html" title="Virtual base class for instruction assemblers." alt="" coords="7,5,89,32"/>
+<area shape="rect" href="$classAssemblerX86.html" title="This class contains methods for assembling x86 instructions (SgAsmx86Instruction)." alt="" coords="139,5,248,32"/>
+</map>

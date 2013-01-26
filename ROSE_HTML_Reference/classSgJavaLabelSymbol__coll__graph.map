@@ -1,0 +1,13 @@
+base referer
+rect $classSgSymbol.html 644,396 729,423
+rect $classSgNode.html 533,297 603,324
+rect $classSgLocatedNode.html 307,396 427,423
+rect $classSgFunctionTypeTable.html 529,572 684,599
+rect $classSgStatement.html 316,492 417,519
+rect $classSgJavaLabelStatement.html 223,652 385,679
+rect $classSgScopeStatement.html 143,572 284,599
+rect $classAstAttributeMechanism.html 303,297 468,324
+rect $classSgLabelRefExp.html 451,396 568,423
+rect $classSgSymbolTable.html 73,103 191,129
+rect $classSgTypeTable.html 151,199 252,225
+rect $classSgName.html 11,7 85,33

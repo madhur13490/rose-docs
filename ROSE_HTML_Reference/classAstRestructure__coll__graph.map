@@ -1,0 +1,9 @@
+base referer
+rect $classSgNode.html 517,105 587,132
+rect $classSgSupport.html 509,188 595,215
+rect $classSgFunctionTypeTable.html 475,7 629,33
+rect $classSgTypeTable.html 727,284 828,311
+rect $classSgProject.html 340,468 420,495
+rect $classSgFileList.html 433,284 511,311
+rect $classSgDirectoryList.html 585,284 703,311
+rect $classAstAttributeMechanism.html 219,188 384,215

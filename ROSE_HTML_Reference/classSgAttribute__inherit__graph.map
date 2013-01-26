@@ -1,0 +1,7 @@
+base referer
+rect $classSgBitAttribute.html 92,239 196,265
+rect $classSgPragma.html 220,239 305,265
+rect $classSgSupport.html 160,84 245,111
+rect $classSgNode.html 168,7 237,33
+rect $classSgClassDecl__attr.html 5,316 133,343
+rect $classSgFuncDecl__attr.html 157,316 280,343

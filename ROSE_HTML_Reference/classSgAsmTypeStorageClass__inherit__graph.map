@@ -1,0 +1,12 @@
+base referer
+rect $classSgAsmType128bitFloatStorageClass.html 476,7 713,31
+rect $classSgAsmType80bitFloatStorageClass.html 479,55 711,79
+rect $classSgAsmTypeByteStorageClass.html 495,103 695,127
+rect $classSgAsmTypeDoubleFloatStorageClass.html 472,151 717,175
+rect $classSgAsmTypeDoubleQuadWordStorageClass.html 456,199 733,223
+rect $classSgAsmTypeDoubleWordStorageClass.html 472,247 717,271
+rect $classSgAsmTypeQuadWordStorageClass.html 476,295 713,319
+rect $classSgAsmTypeSingleFloatStorageClass.html 475,343 715,367
+rect $classSgAsmTypeVectorStorageClass.html 489,391 700,415
+rect $classSgAsmTypeWordStorageClass.html 492,439 697,463
+rect $classSgAsmNodeStorageClass.html 8,223 184,247

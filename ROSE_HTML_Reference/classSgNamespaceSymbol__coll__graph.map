@@ -1,0 +1,8 @@
+base referer
+rect $classSgSymbol.html 205,209 291,236
+rect $classSgNode.html 204,111 273,137
+rect $classAstAttributeMechanism.html 5,111 171,137
+rect $classSgNamespaceAliasDeclarationStatement.html 365,209 648,236
+rect $classSgDeclarationStatement.html 332,9 508,36
+rect $classSgNamespaceDeclarationStatement.html 563,111 813,137
+rect $classSgName.html 744,9 819,36

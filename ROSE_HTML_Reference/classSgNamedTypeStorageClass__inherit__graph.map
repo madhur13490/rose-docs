@@ -1,0 +1,6 @@
+base referer
+rect $classSgClassTypeStorageClass.html 7,232 185,256
+rect $classSgEnumTypeStorageClass.html 209,232 391,256
+rect $classSgTypedefTypeStorageClass.html 415,232 607,256
+rect $classSgTypeStorageClass.html 227,83 373,107
+rect $classSgNodeStorageClass.html 225,8 375,32

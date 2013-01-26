@@ -1,0 +1,10 @@
+base referer
+rect $AstProcessing_8h.html 241,107 361,133
+rect $AstSimpleProcessing_8h.html 460,5 625,32
+rect $AstCombinedProcessing_8h.html 449,56 636,83
+rect $AstSharedMemoryParallelProcessing_8h.html 411,107 675,133
+rect $AstReverseProcessing_8h.html 456,157 629,184
+rect $sage3_8h.html 507,208 579,235
+rect $AstNodePtrs_8h.html 488,259 597,285
+rect $AstNodeVisitMapping_8h.html 460,309 625,336
+rect $AstTextAttributesHandling_8h.html 447,360 639,387

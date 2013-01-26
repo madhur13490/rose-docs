@@ -1,0 +1,8 @@
+base referer
+rect $classSgOmpCollapseClause.html 5,393 173,420
+rect $classSgOmpIfClause.html 197,393 317,420
+rect $classSgOmpNumThreadsClause.html 341,393 536,420
+rect $classSgOmpClause.html 201,239 313,265
+rect $classSgLocatedNodeSupport.html 172,161 343,188
+rect $classSgLocatedNode.html 197,84 317,111
+rect $classSgNode.html 223,7 292,33

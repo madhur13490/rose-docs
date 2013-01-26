@@ -1,0 +1,15 @@
+base referer
+rect $classSgInitializer.html 105,140 199,167
+rect $classSgExpression.html 457,7 564,33
+rect $classSgLabelRefExp.html 843,87 960,113
+rect $classSgExprListExp.html 5,247 117,273
+rect $classSgType.html 372,497 439,524
+rect $classSgLocatedNode.html 868,705 988,732
+rect $classSgStatement.html 843,193 944,220
+rect $classSgNode.html 632,399 701,425
+rect $classSgSupport.html 699,497 784,524
+rect $classSgFunctionTypeTable.html 589,300 744,327
+rect $classSgSymbolTable.html 331,593 448,620
+rect $classSgTypeTable.html 611,705 712,732
+rect $classSg__File__Info.html 780,593 876,620
+rect $classAstAttributeMechanism.html 400,399 565,425

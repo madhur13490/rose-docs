@@ -1,0 +1,5 @@
+base referer
+rect $classSgSupport.html 5,105 91,132
+rect $classSgExpression.html 159,7 265,33
+rect $classSgType.html 357,105 424,132
+rect $classSgTemplateDeclaration.html 448,105 616,132

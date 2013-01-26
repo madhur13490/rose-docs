@@ -1,0 +1,9 @@
+base referer
+rect $sage3basic_8h.html 237,5 344,32
+rect $Assembler_8h.html 428,132 527,159
+rect $AssemblerX86_8h.html 228,157 353,184
+rect $AsmUnparser__compat_8h.html 203,208 379,235
+rect $Disassembler_8h.html 231,259 351,285
+rect $sageBuilderAsm_8h.html 223,309 359,336
+rect $DisassemblerX86_8h.html 219,360 363,387
+rect $integerOps_8h.html 239,411 343,437

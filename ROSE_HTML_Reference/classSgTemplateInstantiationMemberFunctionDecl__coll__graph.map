@@ -1,0 +1,9 @@
+base referer
+rect $classSgMemberFunctionDeclaration.html 211,220 427,247
+rect $classSgFunctionDeclaration.html 352,124 515,151
+rect $classSgDeclarationStatement.html 96,9 272,36
+rect $classSgClassDeclaration.html 171,124 315,151
+rect $classSgCtorInitializerList.html 5,124 147,151
+rect $classSgTemplateDeclaration.html 544,124 712,151
+rect $classSgScopeStatement.html 508,9 649,36
+rect $classSgName.html 676,9 751,36

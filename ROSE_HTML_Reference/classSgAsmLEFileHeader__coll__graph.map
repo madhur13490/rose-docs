@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmGenericHeader.html 60,5 223,32
+rect $classSgAsmDOSExtendedHeader.html 41,56 241,83
+rect $classSgAsmLESectionTable.html 61,107 221,133
+rect $classSgAsmLERelocTable.html 67,157 216,184
+rect $classSgAsmLENameTable.html 65,217 217,244
+rect $structSgAsmLEFileHeader_1_1LEFileHeader__disk.html 7,268 276,295
+rect $classSgAsmLEPageTable.html 68,319 215,345
+rect $classSgAsmLEEntryTable.html 68,369 215,396

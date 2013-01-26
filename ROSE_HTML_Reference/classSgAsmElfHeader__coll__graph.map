@@ -1,0 +1,5 @@
+base referer
+rect $classSgAsmGenericHeader.html 178,99 332,123
+rect $classmutex.html 368,8 427,32
+rect $classSgAsmElfSegmentTable.html 458,99 623,123
+rect $classSgAsmElfSectionTable.html 748,99 903,123

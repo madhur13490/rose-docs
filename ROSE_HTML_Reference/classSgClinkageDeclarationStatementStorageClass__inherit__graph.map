@@ -1,0 +1,7 @@
+base referer
+rect $classSgClinkageEndStatementStorageClass.html 7,381 260,405
+rect $classSgClinkageStartStatementStorageClass.html 284,381 543,405
+rect $classSgDeclarationStatementStorageClass.html 151,232 396,256
+rect $classSgStatementStorageClass.html 184,157 363,181
+rect $classSgLocatedNodeStorageClass.html 175,83 372,107
+rect $classSgNodeStorageClass.html 199,8 348,32

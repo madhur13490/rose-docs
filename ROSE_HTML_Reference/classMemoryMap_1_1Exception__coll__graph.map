@@ -1,0 +1,3 @@
+base referer
+rect $classMemoryMap.html 101,103 200,129
+rect $classRangeMap.html 80,7 221,33

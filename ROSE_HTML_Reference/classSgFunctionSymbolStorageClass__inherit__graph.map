@@ -1,0 +1,5 @@
+base referer
+rect $classSgMemberFunctionSymbolStorageClass.html 7,232 268,256
+rect $classSgRenameSymbolStorageClass.html 292,232 505,256
+rect $classSgSymbolStorageClass.html 187,83 349,107
+rect $classSgNodeStorageClass.html 193,8 343,32

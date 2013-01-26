@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmPESectionStorageClass.html 40,307 248,331
+rect $classSgAsmGenericSectionStorageClass.html 27,232 261,256
+rect $classSgAsmExecutableFileFormatStorageClass.html 7,157 281,181
+rect $classSgAsmNodeStorageClass.html 56,83 232,107
+rect $classSgNodeStorageClass.html 69,8 219,32

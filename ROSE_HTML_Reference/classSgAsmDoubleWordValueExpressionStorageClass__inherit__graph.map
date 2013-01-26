@@ -1,0 +1,5 @@
+base referer
+rect $classSgAsmValueExpressionStorageClass.html 44,232 287,256
+rect $classSgAsmExpressionStorageClass.html 60,158 271,182
+rect $classSgAsmNodeStorageClass.html 78,83 254,107
+rect $classSgNodeStorageClass.html 91,8 240,32

@@ -1,0 +1,5 @@
+base referer
+rect $classSgSymbolStorageClass.html 7,136 170,160
+rect $classSgNodeStorageClass.html 51,8 200,32
+rect $classSgSupportStorageClass.html 126,85 291,109
+rect $classSgNameStorageClass.html 130,187 284,211

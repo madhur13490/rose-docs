@@ -1,0 +1,8 @@
+base referer
+rect $classSgDerivedTypeStatementStorageClass.html 7,381 260,405
+rect $classSgModuleStatementStorageClass.html 284,381 505,405
+rect $classSgTemplateInstantiationDeclStorageClass.html 529,381 799,405
+rect $classSgDeclarationStatementStorageClass.html 272,232 517,256
+rect $classSgStatementStorageClass.html 305,157 484,181
+rect $classSgLocatedNodeStorageClass.html 296,83 493,107
+rect $classSgNodeStorageClass.html 320,8 469,32

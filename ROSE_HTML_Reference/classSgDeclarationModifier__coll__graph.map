@@ -1,0 +1,10 @@
+base referer
+rect $classSgModifier.html 281,172 369,199
+rect $classSgTypeModifier.html 237,359 355,385
+rect $classSgElaboratedTypeModifier.html 33,252 217,279
+rect $classSgConstVolatileModifier.html 241,252 409,279
+rect $classSgUPC__AccessModifier.html 433,252 599,279
+rect $classSgStorageModifier.html 568,305 704,332
+rect $classSgAccessModifier.html 711,305 844,332
+rect $classSgSupport.html 283,92 368,119
+rect $classSgNode.html 291,9 360,36

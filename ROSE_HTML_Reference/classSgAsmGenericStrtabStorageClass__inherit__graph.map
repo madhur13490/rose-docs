@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmCoffStrtabStorageClass.html 7,307 212,331
+rect $classSgAsmElfStrtabStorageClass.html 236,307 433,331
+rect $classSgAsmExecutableFileFormatStorageClass.html 84,158 359,182
+rect $classSgAsmNodeStorageClass.html 133,83 309,107
+rect $classSgNodeStorageClass.html 147,8 296,32

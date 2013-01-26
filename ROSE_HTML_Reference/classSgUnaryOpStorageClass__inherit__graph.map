@@ -1,0 +1,14 @@
+base referer
+rect $classSgAddressOfOpStorageClass.html 484,7 681,31
+rect $classSgBitComplementOpStorageClass.html 469,55 696,79
+rect $classSgCastExpStorageClass.html 499,103 667,127
+rect $classSgExpressionRootStorageClass.html 477,151 688,175
+rect $classSgMinusMinusOpStorageClass.html 480,199 685,223
+rect $classSgMinusOpStorageClass.html 497,247 668,271
+rect $classSgNotOpStorageClass.html 504,295 661,319
+rect $classSgPlusPlusOpStorageClass.html 489,343 676,367
+rect $classSgPointerDerefExpStorageClass.html 475,391 691,415
+rect $classSgThrowOpStorageClass.html 496,439 669,463
+rect $classSgUnaryAddOpStorageClass.html 485,487 680,511
+rect $classSgUserDefinedUnaryOpStorageClass.html 460,535 705,559
+rect $classSgExpressionStorageClass.html 7,271 191,295

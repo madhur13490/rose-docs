@@ -1,0 +1,5 @@
+base referer
+rect $classProductLattice.html 104,105 213,132
+rect $classLattice.html 47,7 111,33
+rect $classFunction.html 237,105 312,132
+rect $classSgFunctionDeclaration.html 193,7 356,33

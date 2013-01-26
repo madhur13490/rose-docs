@@ -1,0 +1,4 @@
+base referer
+rect $classSgFile.html 28,161 84,188
+rect $classSgSupport.html 13,84 99,111
+rect $classSgNode.html 21,7 91,33

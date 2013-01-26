@@ -1,0 +1,4 @@
+base referer
+rect $classSgFunctionDeclaration.html 5,7 168,33
+rect $classSgLabelRefExp.html 192,7 309,33
+rect $classSgInitializedName.html 351,7 484,33

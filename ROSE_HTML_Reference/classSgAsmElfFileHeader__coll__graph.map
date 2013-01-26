@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmGenericHeader.html 69,5 232,32
+rect $classSgAsmElfSegmentTable.html 65,56 236,83
+rect $structSgAsmElfFileHeader_1_1Elf32FileHeader__disk.html 7,107 295,133
+rect $structSgAsmElfFileHeader_1_1Elf64FileHeader__disk.html 7,157 295,184
+rect $classSgAsmElfSectionTable.html 69,208 232,235

@@ -1,0 +1,4 @@
+base referer
+rect $classBinaryLoaderElf.html 85,103 205,129
+rect $classBinaryLoader.html 5,7 109,33
+rect $classBinaryLoaderElf_1_1SymbolMap.html 133,7 336,33

@@ -1,0 +1,10 @@
+base referer
+rect $classSgAsmGenericHeader.html 69,5 232,32
+rect $classSgAsmPESectionTable.html 71,56 231,83
+rect $structSgAsmPEFileHeader_1_1PE32OptHeader__disk.html 7,107 295,133
+rect $classrose__rva__t.html 107,167 195,193
+rect $classSgAsmCoffSymbolTable.html 64,217 237,244
+rect $classMemoryMap.html 101,268 200,295
+rect $structSgAsmPEFileHeader_1_1PE64OptHeader__disk.html 7,319 295,345
+rect $structSgAsmPEFileHeader_1_1PEFileHeader__disk.html 16,369 285,396
+rect $classSgAsmPERVASizePairList.html 63,420 239,447

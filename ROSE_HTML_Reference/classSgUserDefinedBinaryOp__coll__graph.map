@@ -1,0 +1,8 @@
+base referer
+rect $classSgBinaryOp.html 56,223 152,249
+rect $classSgExpression.html 5,7 112,33
+rect $classSgType.html 240,115 307,141
+rect $classSgName.html 347,7 421,33
+rect $classSgFunctionDeclaration.html 381,115 544,141
+rect $classSgFunctionSymbol.html 419,223 557,249
+rect $classSgSymbol.html 568,115 653,141

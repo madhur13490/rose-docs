@@ -1,0 +1,13 @@
+base referer
+rect $classSgScopeStatement.html 637,359 779,385
+rect $classSgInitializedName.html 360,524 493,551
+rect $classSgBasicBlock.html 665,524 769,551
+rect $classSgStatement.html 657,263 759,289
+rect $classSgLocatedNode.html 535,7 655,33
+rect $classSgExpression.html 241,87 348,113
+rect $classSgLabelRefExp.html 519,167 636,193
+rect $classSgVarRefExp.html 185,716 289,743
+rect $classSgTypeTable.html 381,263 483,289
+rect $classSgSymbolTable.html 376,167 493,193
+rect $classSgVariableSymbol.html 237,620 373,647
+rect $classSgSymbol.html 251,524 336,551

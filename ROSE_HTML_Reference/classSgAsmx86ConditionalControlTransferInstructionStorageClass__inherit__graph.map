@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmx86LoopStorageClass.html 101,531 296,555
+rect $classSgAsmx86ControlTransferInstructionStorageClass.html 39,382 359,406
+rect $classSgAsmx86InstructionStorageClass.html 85,307 312,331
+rect $classSgAsmInstructionStorageClass.html 96,232 301,256
+rect $classSgAsmStatementStorageClass.html 96,158 301,182
+rect $classSgAsmNodeStorageClass.html 111,83 287,107
+rect $classSgNodeStorageClass.html 124,8 273,32

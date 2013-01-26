@@ -1,0 +1,8 @@
+base referer
+rect $classSgAggregateInitializerStorageClass.html 7,307 239,331
+rect $classSgAssignInitializerStorageClass.html 263,307 473,331
+rect $classSgConstructorInitializerStorageClass.html 497,307 737,331
+rect $classSgDesignatedInitializerStorageClass.html 761,307 999,331
+rect $classSgExpressionStorageClass.html 400,158 584,182
+rect $classSgLocatedNodeStorageClass.html 393,83 591,107
+rect $classSgNodeStorageClass.html 417,8 567,32

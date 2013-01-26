@@ -1,0 +1,12 @@
+base referer
+rect $classSgAsmExecutableFileFormat.html 196,204 399,231
+rect $classSgAsmGenericSection.html 407,396 569,423
+rect $classSgAsmGenericFile.html 520,300 656,327
+rect $classSgAsmGenericString.html 197,300 349,327
+rect $classSgAsmNode.html 248,124 347,151
+rect $classSgNode.html 75,9 144,36
+rect $classAstAttributeMechanism.html 277,9 443,36
+rect $structSgAsmPERVASizePair_1_1RVASizePair__disk.html 43,492 315,519
+rect $classrose__rva__t.html 339,492 427,519
+rect $classSgAsmGenericHeader.html 451,492 613,519
+rect $classSgSharedVector.html 432,204 605,231

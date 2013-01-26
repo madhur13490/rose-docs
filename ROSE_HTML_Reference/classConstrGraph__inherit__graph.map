@@ -1,0 +1,5 @@
+base referer
+rect $classInfiniteLattice.html 5,161 109,188
+rect $classLattice.html 25,84 89,111
+rect $classprintable.html 20,7 95,33
+rect $classdottable.html 133,161 205,188

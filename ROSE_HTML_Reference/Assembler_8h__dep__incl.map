@@ -1,0 +1,6 @@
+base referer
+rect $AssemblerX86_8h.html 156,100 281,127
+rect $Disassembler_8C.html 345,5 465,32
+rect $DisassemblerArm_8C.html 331,81 480,108
+rect $DisassemblerX86_8C.html 332,144 479,171
+rect $Partitioner_8C.html 357,195 453,221

@@ -1,0 +1,4 @@
+base referer
+rect $classSgStatement.html 64,161 165,188
+rect $classSgLocatedNode.html 55,84 175,111
+rect $classSgNode.html 80,7 149,33

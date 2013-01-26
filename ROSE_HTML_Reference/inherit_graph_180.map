@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$classROSE__VisitorPattern.html" title="ROSE_VisitorPattern" alt="" coords="5,31,149,57"/>
+<area shape="rect" href="$classROSE__VisitorPatternDefaultBase.html" title="ROSE_VisitorPatternDefaultBase" alt="" coords="199,5,415,32"/>
+<area shape="rect" href="$classVisitor__R.html" title="Visitor_R\&lt; R \&gt;" alt="" coords="253,56,360,83"/>
+<area shape="rect" href="$classContextVis__R.html" title="Strategy pattern applied to visitors: serves as a context to a strategy, which itself is a visitor; d..." alt="" coords="464,56,600,83"/>
+</map>

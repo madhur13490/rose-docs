@@ -1,0 +1,14 @@
+digraph G
+{
+  edge [fontname="Helvetica",fontsize=10,labelfontname="Helvetica",labelfontsize=10];
+  node [fontname="Helvetica",fontsize=10,shape=record];
+  Node1 [label="SgAsmStatementStorageClass",height=0.2,width=0.4,color="white", fillcolor="black", style="filled" fontcolor="white"];
+  Node2 -> Node1 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node2 [label="SgAsmNodeStorageClass",height=0.2,width=0.4,color="red",URL="$classSgAsmNodeStorageClass.html"];
+  Node1 -> Node3 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node3 [label="SgAsmBlockStorageClass",height=0.2,width=0.4,color="black",URL="$classSgAsmBlockStorageClass.html"];
+  Node1 -> Node4 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node4 [label="SgAsmDeclarationStorageClass",height=0.2,width=0.4,color="red",URL="$classSgAsmDeclarationStorageClass.html"];
+  Node1 -> Node5 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node5 [label="SgAsmInstructionStorageClass",height=0.2,width=0.4,color="red",URL="$classSgAsmInstructionStorageClass.html"];
+}

@@ -1,0 +1,6 @@
+base referer
+rect $classSgBinaryComposite.html 5,239 152,265
+rect $classSgSourceFile.html 176,239 277,265
+rect $classSgUnknownFile.html 301,239 419,265
+rect $classSgSupport.html 184,84 269,111
+rect $classSgNode.html 192,7 261,33

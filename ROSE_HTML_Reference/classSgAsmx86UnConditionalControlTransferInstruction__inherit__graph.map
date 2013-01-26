@@ -1,0 +1,10 @@
+base referer
+rect $classSgAsmx86Call.html 672,7 782,31
+rect $classSgAsmx86Enter.html 668,55 786,79
+rect $classSgAsmx86Hlt.html 676,103 778,127
+rect $classSgAsmx86Int.html 676,151 778,175
+rect $classSgAsmx86IRet.html 671,199 783,223
+rect $classSgAsmx86Jmp.html 671,247 783,271
+rect $classSgAsmx86Leave.html 666,295 788,319
+rect $classSgAsmx86Ret.html 674,343 780,367
+rect $classSgAsmx86ControlTransferInstruction.html 7,175 247,199

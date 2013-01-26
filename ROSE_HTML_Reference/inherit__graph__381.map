@@ -1,0 +1,4 @@
+base referer
+rect $classvariable.html 5,31 77,57
+rect $classarrayElt.html 127,5 196,32
+rect $classvarID.html 133,56 189,83

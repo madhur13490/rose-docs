@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classStaticCFG_1_1CFG.html" title="StaticCFG::CFG" alt="" coords="7,31,121,57"/>
+<area shape="rect" href="$classStaticCFG_1_1CustomFilteredCFG.html" title="A CFG implementation with Custom filters." alt="" coords="172,5,439,32"/>
+<area shape="rect" href="$classStaticCFG_1_1InterproceduralCFG.html" title="StaticCFG::InterproceduralCFG" alt="" coords="203,56,408,83"/>
+</map>

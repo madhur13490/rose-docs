@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmElfSectionTableEntry.html 431,7 617,31
+rect $classSgAsmElfSegmentEntry.html 441,55 607,79
+rect $classSgAsmElfSegmentEntryList.html 431,103 617,127
+rect $classSgAsmElfSegmentTableEntry.html 425,151 623,175
+rect $classSgAsmElfSymbol.html 461,199 587,223
+rect $classSgAsmElfSymbolList.html 451,247 597,271
+rect $classSgAsmExecutableFileFormat.html 7,127 201,151

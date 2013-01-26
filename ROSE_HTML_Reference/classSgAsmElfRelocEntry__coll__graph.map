@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmExecutableFileFormat.html 47,5 249,32
+rect $structSgAsmElfRelocEntry_1_1Elf64RelEntry__disk.html 9,56 287,83
+rect $structSgAsmElfRelocEntry_1_1Elf32RelEntry__disk.html 9,107 287,133
+rect $structSgAsmElfRelocEntry_1_1Elf32RelaEntry__disk.html 5,157 291,184
+rect $structSgAsmElfRelocEntry_1_1Elf64RelaEntry__disk.html 5,208 291,235

@@ -1,0 +1,6 @@
+base referer
+rect $classFiniteVariablesProductLattice.html 5,316 205,343
+rect $classInfiniteVariablesProductLattice.html 229,316 440,343
+rect $classProductLattice.html 165,161 275,188
+rect $classLattice.html 188,84 252,111
+rect $classprintable.html 183,7 257,33

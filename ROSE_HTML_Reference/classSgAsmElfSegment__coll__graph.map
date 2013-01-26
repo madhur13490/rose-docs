@@ -1,0 +1,7 @@
+base referer
+rect $classSgAsmGenericSegment.html 205,280 371,304
+rect $classSgAsmGenericSupport.html 205,99 363,123
+rect $classSgAsmGenericSection.html 325,189 480,213
+rect $classmutex.html 421,8 480,32
+rect $classSgAsmElfSegmentEntryList.html 605,189 792,213
+rect $classSgAsmElfSupport.html 784,99 912,123

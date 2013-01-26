@@ -1,0 +1,11 @@
+base referer
+rect $classSgAsmElfDynamicSection.html 419,5 605,32
+rect $classSgAsmElfEHFrameSection.html 419,56 605,83
+rect $classSgAsmElfNoteSection.html 433,107 591,133
+rect $classSgAsmElfRelocSection.html 429,157 595,184
+rect $classSgAsmElfStringSection.html 429,208 595,235
+rect $classSgAsmElfSymbolSection.html 424,259 600,285
+rect $classSgAsmElfSymverDefinedSection.html 397,309 627,336
+rect $classSgAsmElfSymverNeededSection.html 399,360 625,387
+rect $classSgAsmElfSymverSection.html 423,411 601,437
+rect $classSgAsmGenericSection.html 7,208 169,235

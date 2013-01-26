@@ -1,0 +1,5 @@
+base referer
+rect $classSgAsmArmRegisterReferenceExpressionStorageClass.html 649,7 996,31
+rect $classSgAsmPowerpcRegisterReferenceExpressionStorageClass.html 636,55 1009,79
+rect $classSgAsmx86RegisterReferenceExpressionStorageClass.html 652,103 993,127
+rect $classSgAsmExpressionStorageClass.html 7,55 217,79

@@ -1,0 +1,5 @@
+base referer
+rect $classSgScopeStatement.html 64,137 205,164
+rect $classSgStatement.html 123,7 224,33
+rect $classSgTryStmt.html 229,137 315,164
+rect $classSgVariableDeclaration.html 339,137 499,164

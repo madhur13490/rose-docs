@@ -1,0 +1,5 @@
+base referer
+rect $classAstAttribute.html 5,7 99,33
+rect $classSgClassDefinition.html 123,7 253,33
+rect $classSgFunctionDeclaration.html 277,7 440,33
+rect $classSgType.html 472,7 539,33

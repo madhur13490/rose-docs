@@ -1,0 +1,8 @@
+base referer
+rect $classVariablesProductLattice.html 207,204 375,231
+rect $classProductLattice.html 133,105 243,132
+rect $classInfiniteProductLattice.html 31,204 183,231
+rect $classLattice.html 156,7 220,33
+rect $classInfiniteLattice.html 5,105 109,132
+rect $classFunction.html 399,105 473,132
+rect $classSgFunctionDeclaration.html 355,7 517,33

@@ -1,0 +1,8 @@
+base referer
+rect $classSgDerivedTypeStatement.html 5,393 187,420
+rect $classSgModuleStatement.html 211,393 357,420
+rect $classSgTemplateInstantiationDecl.html 381,393 581,420
+rect $classSgDeclarationStatement.html 196,239 372,265
+rect $classSgStatement.html 233,161 335,188
+rect $classSgLocatedNode.html 224,84 344,111
+rect $classSgNode.html 249,7 319,33

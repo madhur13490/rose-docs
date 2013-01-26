@@ -1,0 +1,6 @@
+base referer
+rect $classSgPartialFunctionModifierType.html 5,393 213,420
+rect $classSgMemberFunctionType.html 24,239 195,265
+rect $classSgFunctionType.html 49,161 169,188
+rect $classSgType.html 76,84 143,111
+rect $classSgNode.html 75,7 144,33

@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmNode.html 5,84 104,111
+rect $classSgLocatedNode.html 128,84 248,111
+rect $classSgSupport.html 272,84 357,111
+rect $classSgSymbol.html 381,84 467,111
+rect $classSgType.html 491,84 557,111

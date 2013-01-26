@@ -1,0 +1,41 @@
+<map id="G" name="G">
+<area shape="rect" href="$classDisassembler_1_1Exception.html" title="Exception thrown by the disassemblers." alt="" coords="2528,592,2696,619"/>
+<area shape="rect" href="$classSgAsmInstruction.html" title="SgAsmInstruction" alt="" coords="2551,488,2673,515"/>
+<area shape="rect" href="$classSgAsmStatement.html" title="SgAsmStatement" alt="" coords="2628,387,2751,413"/>
+<area shape="rect" href="$classSgAsmNode.html" title="SgAsmNode" alt="" coords="2552,285,2648,312"/>
+<area shape="rect" href="$classSgAsmOperandList.html" title="SgAsmOperandList" alt="" coords="2468,387,2604,413"/>
+<area shape="rect" href="$classSgNode.html" title="This class represents the base class for all IR nodes within Sage III." alt="" coords="2040,8,2112,35"/>
+<area shape="rect" href="$classSgLocatedNode.html" title="This class represents the notion of an expression or statement which has a position within the source..." alt="" coords="1397,285,1517,312"/>
+<area shape="rect" href="$classSgSupport.html" title="This class represents the base class of a numbr of IR nodes that don&#39;t otherwise fit into the existin..." alt="" coords="1932,101,2017,128"/>
+<area shape="rect" href="$classSgSymbol.html" title="This class represents the concept of a name within the compiler." alt="" coords="5,285,88,312"/>
+<area shape="rect" href="$classrose__hash__multimap.html" title="Hash table support for symbol tables within ROSE." alt="" coords="2108,101,2252,128"/>
+<area shape="rect" href="$classSgType.html" title="This class represents the base class for all types." alt="" coords="1051,488,1117,515"/>
+<area shape="rect" href="$classSgFunctionTypeTable.html" title="This class represents the function type table (stores all function types so that they can be shared i..." alt="" coords="2121,488,2273,515"/>
+<area shape="rect" href="$classSgStatement.html" title="This class represents the notion of a statement." alt="" coords="1699,387,1797,413"/>
+<area shape="rect" href="$classSgLabelSymbol.html" title="SgLabelSymbol" alt="" coords="1612,776,1729,803"/>
+<area shape="rect" href="$classSgScopeStatement.html" title="This class represents the concept of a scope in C++ (e.g. global scope, fuction scope, etc.)." alt="" coords="1857,488,1996,515"/>
+<area shape="rect" href="$classSgDeclarationStatement.html" title="This class represents the concept of a declaration statement." alt="" coords="837,592,1005,619"/>
+<area shape="rect" href="$classSgLabelStatement.html" title="This class represents the concept of a C or C++ label statement." alt="" coords="1868,592,1999,619"/>
+<area shape="rect" href="$classSgExpression.html" title="This class represents the notion of an expression. Expressions are derived from SgLocatedNodes, since similar to statement, expressions have a concrete location within the user&#39;s source code." alt="" coords="1433,387,1537,413"/>
+<area shape="rect" href="$classSgLocatedNodeSupport.html" title="SgLocatedNodeSupport" alt="" coords="1297,437,1465,464"/>
+<area shape="rect" href="$classAstAttributeMechanism.html" title="This mechanism provides capabilities to define a mapping from strings to AstAttributes. An instance of this class is accessible at each ROSE AST node in the data member &#39;attribute&#39;." alt="" coords="1201,179,1356,205"/>
+<area shape="rect" href="$classSg__File__Info.html" title="This class represents the location of the code associated with the IR node in the original source cod..." alt="" coords="1756,179,1852,205"/>
+<area shape="rect" href="$classSgModifier.html" title="This class represents the base class of a number of IR nodes define modifiers within the C++ grammar..." alt="" coords="640,179,725,205"/>
+<area shape="rect" href="$classSgTypeTable.html" title="SgTypeTable" alt="" coords="2255,387,2356,413"/>
+<area shape="rect" href="$classSgSymbolTable.html" title="This class represents the symbol tables used in both SgScopeStatement and the SgFunctionTypeSymbolTab..." alt="" coords="2035,285,2152,312"/>
+<area shape="rect" href="$classSgName.html" title="This class represents strings within the IR nodes." alt="" coords="1937,179,2012,205"/>
+<area shape="rect" href="$classSgTypedefSeq.html" title="This class represents a list of associated typedefs for the SgType IR nodes which reference this list..." alt="" coords="1104,232,1216,259"/>
+<area shape="rect" href="$classSgLabelRefExp.html" title="SgLabelRefExp" alt="" coords="1799,867,1913,893"/>
+<area shape="rect" href="$classSgInitializer.html" title="This class represents the notion of an initializer for a variable declaration or expression in a func..." alt="" coords="1400,539,1488,565"/>
+<area shape="rect" href="$classSgInitializedName.html" title="This class represents the notion of a declared variable." alt="" coords="1321,685,1449,712"/>
+<area shape="rect" href="$classSgStorageModifier.html" title="This class represents modifiers specific to storage." alt="" coords="527,387,660,413"/>
+<area shape="rect" href="$classSgDeclarationModifier.html" title="This class represents modifiers for SgDeclaration (declaration statements)." alt="" coords="516,488,671,515"/>
+<area shape="rect" href="$classSgModifierNodes.html" title="This class represents a list of SgModifierTypes and a link is a linked list of SgModifierNodes." alt="" coords="869,336,995,363"/>
+<area shape="rect" href="$classSgTypeModifier.html" title="SgTypeModifier" alt="" coords="352,387,467,413"/>
+<area shape="rect" href="$classSgElaboratedTypeModifier.html" title="SgElaboratedTypeModifier" alt="" coords="592,285,773,312"/>
+<area shape="rect" href="$classSgConstVolatileModifier.html" title="SgConstVolatileModifier" alt="" coords="163,285,328,312"/>
+<area shape="rect" href="$classSgUPC__AccessModifier.html" title="SgUPC_AccessModifier" alt="" coords="403,285,568,312"/>
+<area shape="rect" href="$classSgAccessModifier.html" title="SgAccessModifier" alt="" coords="735,336,863,363"/>
+<area shape="rect" href="$classSgPointerType.html" title="SgPointerType" alt="" coords="549,592,659,619"/>
+<area shape="rect" href="$classSgReferenceType.html" title="SgReferenceType" alt="" coords="683,592,813,619"/>
+</map>

@@ -1,0 +1,9 @@
+base referer
+rect $classSgOmpAtomicStatement.html 389,5 568,32
+rect $classSgOmpClauseBodyStatement.html 373,56 584,83
+rect $classSgOmpCriticalStatement.html 389,107 568,133
+rect $classSgOmpMasterStatement.html 391,157 567,184
+rect $classSgOmpOrderedStatement.html 385,208 572,235
+rect $classSgOmpSectionStatement.html 388,259 569,285
+rect $classSgOmpWorkshareStatement.html 377,309 580,336
+rect $classSgStatement.html 7,157 108,184

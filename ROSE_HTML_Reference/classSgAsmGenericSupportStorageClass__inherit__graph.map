@@ -1,0 +1,10 @@
+base referer
+rect $classSgAsmGenericArchitectureStorageClass.html 620,7 882,31
+rect $classSgAsmGenericFileStorageClass.html 644,55 858,79
+rect $classSgAsmGenericFormatStorageClass.html 635,103 867,127
+rect $classSgAsmGenericHeaderStorageClass.html 634,151 868,175
+rect $classSgAsmGenericSectionListStorageClass.html 623,199 879,223
+rect $classSgAsmGenericSectionStorageClass.html 634,247 868,271
+rect $classSgAsmGenericSegmentListStorageClass.html 618,295 884,319
+rect $classSgAsmGenericSegmentStorageClass.html 628,343 874,367
+rect $classSgAsmExecutableFileFormatStorageClass.html 7,175 282,199

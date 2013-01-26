@@ -1,0 +1,15 @@
+base referer
+rect $classSgAsmx86ArplStorageClass.html 599,7 788,31
+rect $classSgAsmx86CpuidStorageClass.html 593,55 793,79
+rect $classSgAsmx86Data16StorageClass.html 589,103 797,127
+rect $classSgAsmx86EmmsStorageClass.html 591,151 796,175
+rect $classSgAsmx86EscStorageClass.html 599,199 788,223
+rect $classSgAsmx86LeaStorageClass.html 599,247 788,271
+rect $classSgAsmx86LockStorageClass.html 596,295 791,319
+rect $classSgAsmx86NopStorageClass.html 599,343 788,367
+rect $classSgAsmx86PauseStorageClass.html 592,391 795,415
+rect $classSgAsmx86RdtscStorageClass.html 593,439 793,463
+rect $classSgAsmx86Ud2StorageClass.html 599,487 788,511
+rect $classSgAsmx86WaitStorageClass.html 597,535 789,559
+rect $classSgAsmx86XlatStorageClass.html 599,583 788,607
+rect $classSgAsmx86InstructionStorageClass.html 8,295 235,319

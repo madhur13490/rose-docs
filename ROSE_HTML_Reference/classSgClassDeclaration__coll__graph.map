@@ -1,0 +1,11 @@
+base referer
+rect $classSgDeclarationStatement.html 137,217 313,244
+rect $classSgNamedType.html 279,316 391,343
+rect $classSgStatement.html 56,105 157,132
+rect $classSgScopeStatement.html 29,316 171,343
+rect $classSgDeclarationModifier.html 335,105 495,132
+rect $classSgName.html 525,161 600,188
+rect $classSgExprListExp.html 619,396 731,423
+rect $classSgExpression.html 639,316 745,343
+rect $classSgClassDefinition.html 73,396 204,423
+rect $classSgClassType.html 281,396 383,423

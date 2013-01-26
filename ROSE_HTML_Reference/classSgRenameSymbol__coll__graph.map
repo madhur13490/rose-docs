@@ -1,0 +1,5 @@
+base referer
+rect $classSgFunctionSymbol.html 233,199 372,225
+rect $classSgSymbol.html 60,103 145,129
+rect $classSgFunctionDeclaration.html 184,103 347,129
+rect $classSgName.html 31,7 105,33

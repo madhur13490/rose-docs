@@ -1,0 +1,9 @@
+base referer
+rect $classSgSupport.html 136,101 221,128
+rect $classSgName.html 445,275 520,301
+rect $classSgNode.html 13,64 83,91
+rect $classSgFunctionCallExp.html 816,152 955,179
+rect $classSgNamedType.html 829,479 941,505
+rect $classSgDeclarationStatement.html 395,415 571,441
+rect $classSgNamespaceDeclarationStatement.html 760,336 1011,363
+rect $classSgScopeStatement.html 815,387 956,413

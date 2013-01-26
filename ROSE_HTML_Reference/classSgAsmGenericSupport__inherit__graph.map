@@ -1,0 +1,10 @@
+base referer
+rect $classSgAsmGenericArchitecture.html 460,7 642,31
+rect $classSgAsmGenericFile.html 484,55 618,79
+rect $classSgAsmGenericFormat.html 475,103 627,127
+rect $classSgAsmGenericHeader.html 474,151 628,175
+rect $classSgAsmGenericSection.html 474,199 628,223
+rect $classSgAsmGenericSectionList.html 463,247 639,271
+rect $classSgAsmGenericSegment.html 468,295 634,319
+rect $classSgAsmGenericSegmentList.html 458,343 644,367
+rect $classSgAsmExecutableFileFormat.html 7,175 202,199

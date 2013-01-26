@@ -1,0 +1,5 @@
+base referer
+rect $classSgInterfaceBodyStorageClass.html 7,232 207,256
+rect $classSgRenamePairStorageClass.html 231,232 423,256
+rect $classSgLocatedNodeStorageClass.html 117,83 315,107
+rect $classSgNodeStorageClass.html 141,8 291,32

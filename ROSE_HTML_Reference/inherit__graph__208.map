@@ -1,0 +1,5 @@
+base referer
+rect $classPartitioner_1_1InsnRangeCallback.html 5,56 221,83
+rect $structPartitioner_1_1FindInsnPadding.html 288,5 483,32
+rect $structPartitioner_1_1FindPostFunctionInsns.html 271,56 500,83
+rect $structPartitioner_1_1FindThunks.html 303,107 468,133

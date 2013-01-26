@@ -1,0 +1,9 @@
+base referer
+rect $classSgOmpCopyinClause.html 404,5 561,32
+rect $classSgOmpCopyprivateClause.html 387,56 579,83
+rect $classSgOmpFirstprivateClause.html 392,107 573,133
+rect $classSgOmpLastprivateClause.html 391,157 575,184
+rect $classSgOmpPrivateClause.html 405,208 560,235
+rect $classSgOmpReductionClause.html 395,259 571,285
+rect $classSgOmpSharedClause.html 404,309 561,336
+rect $classSgOmpClause.html 7,157 119,184

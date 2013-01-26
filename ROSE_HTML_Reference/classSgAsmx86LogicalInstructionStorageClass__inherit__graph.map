@@ -1,0 +1,11 @@
+base referer
+rect $classSgAsmx86AndnpdStorageClass.html 605,7 816,31
+rect $classSgAsmx86AndpdStorageClass.html 608,55 813,79
+rect $classSgAsmx86AndStorageClass.html 616,103 805,127
+rect $classSgAsmx86NotStorageClass.html 617,151 804,175
+rect $classSgAsmx86OrStorageClass.html 620,199 801,223
+rect $classSgAsmx86PandnStorageClass.html 608,247 813,271
+rect $classSgAsmx86PandStorageClass.html 612,295 809,319
+rect $classSgAsmx86PxorStorageClass.html 613,343 808,367
+rect $classSgAsmx86XorStorageClass.html 617,391 804,415
+rect $classSgAsmx86InstructionStorageClass.html 8,199 235,223

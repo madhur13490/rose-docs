@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmDwarfCompilationUnitListStorageClass.html 627,7 920,31
+rect $classSgAsmDwarfConstructListStorageClass.html 644,55 903,79
+rect $classSgAsmDwarfConstructStorageClass.html 655,103 892,127
+rect $classSgAsmDwarfLineListStorageClass.html 660,151 887,175
+rect $classSgAsmDwarfLineStorageClass.html 671,199 876,223
+rect $classSgAsmDwarfMacroListStorageClass.html 655,247 892,271
+rect $classSgAsmDwarfMacroStorageClass.html 665,295 881,319
+rect $classSgAsmExecutableFileFormatStorageClass.html 7,151 281,175

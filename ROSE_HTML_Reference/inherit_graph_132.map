@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$classPartitioner_1_1ByteRangeCallback.html" title="Base class for byte scanning callbacks." alt="" coords="5,107,213,133"/>
+<area shape="rect" href="$structPartitioner_1_1FindData.html" title="Callback to add unassigned addresses to a function." alt="" coords="301,5,443,32"/>
+<area shape="rect" href="$structPartitioner_1_1FindDataPadding.html" title="Callback to detect padding." alt="" coords="276,56,468,83"/>
+<area shape="rect" href="$structPartitioner_1_1FindInterPadFunctions.html" title="Callback to find functions that are between padding." alt="" coords="263,107,481,133"/>
+<area shape="rect" href="$structPartitioner_1_1FindIntraFunctionInsns.html" title="Callback to insert unreachable intra&#45;function blocks." alt="" coords="264,157,480,184"/>
+<area shape="rect" href="$structPartitioner_1_1FindThunkTables.html" title="Callback to find thunk tables." alt="" coords="279,208,465,235"/>
+</map>

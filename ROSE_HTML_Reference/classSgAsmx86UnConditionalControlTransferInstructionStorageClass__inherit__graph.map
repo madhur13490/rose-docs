@@ -1,0 +1,10 @@
+base referer
+rect $classSgAsmx86CallStorageClass.html 832,7 1022,31
+rect $classSgAsmx86EnterStorageClass.html 828,55 1026,79
+rect $classSgAsmx86HltStorageClass.html 836,103 1018,127
+rect $classSgAsmx86IntStorageClass.html 836,151 1018,175
+rect $classSgAsmx86IRetStorageClass.html 831,199 1023,223
+rect $classSgAsmx86JmpStorageClass.html 831,247 1023,271
+rect $classSgAsmx86LeaveStorageClass.html 826,295 1028,319
+rect $classSgAsmx86RetStorageClass.html 834,343 1020,367
+rect $classSgAsmx86ControlTransferInstructionStorageClass.html 7,175 327,199

@@ -1,0 +1,7 @@
+base referer
+rect $classSgC__PreprocessorDirectiveStatement.html 313,289 572,316
+rect $classSgDeclarationStatement.html 67,207 243,233
+rect $classSgStatement.html 5,105 107,132
+rect $classSgDeclarationModifier.html 277,105 437,132
+rect $classSgHeaderFileBody.html 596,289 732,316
+rect $classSgLocatedNodeSupport.html 579,207 749,233

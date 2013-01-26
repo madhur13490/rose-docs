@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classDataConverter.html" title="Encodes and decodes a buffer using an algorithm defined in subclasses." alt="" coords="5,5,115,32"/>
+<area shape="rect" href="$classRot13.html" title="The ROT&#45;13 algorithm, extended to operate over the entire 8&#45;bit domain/range." alt="" coords="164,5,220,32"/>
+</map>

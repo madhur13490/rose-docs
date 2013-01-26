@@ -1,0 +1,4 @@
+base referer
+rect $classRangeMapValue.html 5,31 181,57
+rect $classPartitioner_1_1DataRangeMapValue.html 243,5 467,32
+rect $classPartitioner_1_1FunctionRangeMapValue.html 231,56 479,83

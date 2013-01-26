@@ -1,0 +1,6 @@
+base referer
+rect $classSgBinaryFileStorageClass.html 7,232 183,256
+rect $classSgSourceFileStorageClass.html 207,232 388,256
+rect $classSgUnknownFileStorageClass.html 412,232 607,256
+rect $classSgSupportStorageClass.html 215,83 380,107
+rect $classSgNodeStorageClass.html 223,8 372,32

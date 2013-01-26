@@ -1,0 +1,4 @@
+<map id="structs" name="structs">
+<area shape="rect" href="$group__ROSE__AST__InliningGroup.html" title="Inlining support for function in the AST to be inlined where they are called." alt="" coords="424,5,584,32"/>
+<area shape="rect" href="$group__ROSE__MidEndGroup.html" title="The ROSE mid&#45;end section contains tools for the processing and transformation of the AST..." alt="" coords="7,5,113,32"/>
+</map>

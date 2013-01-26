@@ -1,0 +1,5 @@
+<map id="structs" name="structs">
+<area shape="rect" href="$group__ROSE__3rdPartyLibrariesGroup.html" title="A number of independent librres used in ROSE." alt="" coords="7,31,177,57"/>
+<area shape="rect" href="$group__DOTGenerationStuff.html" title="This library defines the DOT output (graphical representation) of the AST." alt="" coords="480,5,701,32"/>
+<area shape="rect" href="$group__PDFGenerationStuff.html" title="This class defines the PDF output of the AST." alt="" coords="505,56,676,83"/>
+</map>

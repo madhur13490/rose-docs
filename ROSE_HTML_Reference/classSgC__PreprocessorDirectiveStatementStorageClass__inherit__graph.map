@@ -1,0 +1,16 @@
+base referer
+rect $classSgDeadIfDirectiveStatementStorageClass.html 684,7 953,31
+rect $classSgDefineDirectiveStatementStorageClass.html 684,55 953,79
+rect $classSgElseDirectiveStatementStorageClass.html 691,103 947,127
+rect $classSgElseifDirectiveStatementStorageClass.html 687,151 951,175
+rect $classSgEmptyDirectiveStatementStorageClass.html 684,199 953,223
+rect $classSgEndifDirectiveStatementStorageClass.html 688,247 949,271
+rect $classSgErrorDirectiveStatementStorageClass.html 689,295 948,319
+rect $classSgIfdefDirectiveStatementStorageClass.html 691,343 947,367
+rect $classSgIfDirectiveStatementStorageClass.html 700,391 937,415
+rect $classSgIfndefDirectiveStatementStorageClass.html 687,439 951,463
+rect $classSgIncludeDirectiveStatementStorageClass.html 683,487 955,511
+rect $classSgLineDirectiveStatementStorageClass.html 691,535 947,559
+rect $classSgUndefDirectiveStatementStorageClass.html 685,583 952,607
+rect $classSgWarningDirectiveStatementStorageClass.html 679,631 959,655
+rect $classSgDeclarationStatementStorageClass.html 8,319 253,343

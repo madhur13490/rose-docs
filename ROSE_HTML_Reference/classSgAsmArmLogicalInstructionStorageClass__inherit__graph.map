@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmArmAndStorageClass.html 611,7 803,31
+rect $classSgAsmArmBicStorageClass.html 614,55 800,79
+rect $classSgAsmArmEorStorageClass.html 612,103 802,127
+rect $classSgAsmArmOrrStorageClass.html 612,151 802,175
+rect $classSgAsmArmTeqStorageClass.html 611,199 803,223
+rect $classSgAsmArmTstStorageClass.html 614,247 800,271
+rect $classSgAsmArmInstructionStorageClass.html 7,127 239,151

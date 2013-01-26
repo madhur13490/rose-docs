@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmByteValueExpressionStorageClass.html 583,7 852,31
+rect $classSgAsmDoubleFloatValueExpressionStorageClass.html 560,55 875,79
+rect $classSgAsmDoubleWordValueExpressionStorageClass.html 559,103 876,127
+rect $classSgAsmQuadWordValueExpressionStorageClass.html 564,151 871,175
+rect $classSgAsmSingleFloatValueExpressionStorageClass.html 563,199 872,223
+rect $classSgAsmVectorValueExpressionStorageClass.html 576,247 859,271
+rect $classSgAsmWordValueExpressionStorageClass.html 580,295 855,319
+rect $classSgAsmExpressionStorageClass.html 7,151 218,175

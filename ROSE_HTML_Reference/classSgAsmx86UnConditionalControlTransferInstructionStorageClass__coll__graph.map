@@ -1,0 +1,7 @@
+base referer
+rect $classSgAsmx86ControlTransferInstructionStorageClass.html 48,381 368,405
+rect $classSgAsmx86InstructionStorageClass.html 95,307 321,331
+rect $classSgAsmInstructionStorageClass.html 105,232 311,256
+rect $classSgAsmStatementStorageClass.html 105,157 311,181
+rect $classSgAsmNodeStorageClass.html 120,83 296,107
+rect $classSgNodeStorageClass.html 133,8 283,32

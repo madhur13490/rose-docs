@@ -1,0 +1,10 @@
+base referer
+rect $classSgFunctionDeclarationStorageClass.html 396,366 631,390
+rect $classSgDeclarationStatementStorageClass.html 17,288 263,312
+rect $classSgStatementStorageClass.html 7,187 185,211
+rect $classSgDeclarationModifierStorageClass.html 228,187 460,211
+rect $classSgModifierStorageClass.html 484,86 649,110
+rect $classSgFunctionModifierStorageClass.html 325,238 541,262
+rect $classSgSpecialFunctionModifierStorageClass.html 548,238 807,262
+rect $classSgSupportStorageClass.html 612,8 777,32
+rect $classSgNameStorageClass.html 704,136 859,160

@@ -1,0 +1,8 @@
+base referer
+rect $classStackFrameVector.html 65,337 239,364
+rect $classSgFile.html 292,337 348,364
+rect $classSgSupport.html 55,92 140,119
+rect $classSg__File__Info.html 105,172 201,199
+rect $classSgNode.html 63,9 132,36
+rect $classROSEAttributesListContainer.html 225,172 425,199
+rect $classAstAttributeMechanism.html 548,172 713,199

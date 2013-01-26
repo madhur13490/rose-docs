@@ -1,0 +1,4 @@
+base referer
+rect $classSgFunctionDeclaration.html 5,7 168,33
+rect $classSgClassDeclaration.html 192,7 336,33
+rect $classSgCtorInitializerList.html 416,7 557,33

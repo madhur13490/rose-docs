@@ -1,0 +1,16 @@
+base referer
+rect $classSgAsmGenericDLL.html 404,375 540,399
+rect $classSgAsmExecutableFileFormat.html 338,183 532,207
+rect $classSgAsmGenericString.html 418,273 564,297
+rect $classSgAsmPEImportHintNameList.html 7,324 207,348
+rect $classSgAsmPEImportDirectory.html 338,585 514,609
+rect $classSgAsmGenericSection.html 671,375 826,399
+rect $classSgAsmGenericFile.html 748,273 882,297
+rect $classSgAsmNode.html 387,105 483,129
+rect $classSgNode.html 231,13 300,37
+rect $classAstAttributeMechanism.html 427,13 587,37
+rect $classrose__rva__t.html 662,465 747,489
+rect $classSgAsmGenericHeader.html 771,465 926,489
+rect $classSgSharedVector.html 786,183 1012,207
+rect $classExtentMap.html 588,273 674,297
+rect $structSgAsmPEImportDirectory_1_1PEImportDirectory__disk.html 264,465 587,489

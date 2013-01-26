@@ -1,0 +1,10 @@
+\form#0:$A_i$
+\form#1:$R_i$
+\form#2:$f_i(x)$
+\form#3:$\mu_i$
+\form#4:$\sigma_i^2$
+\form#5:\[ f_i(x) = \frac{1}{\sqrt{2 \pi \sigma^2}} e^{-\frac{(x - \mu)^2}{2\sigma^2}} \]
+\form#6:$C_i(R_i)$
+\form#7:\[ C_i(x) = 2 \int_{-\inf}^{\mu_i-|\mu_i-x|} f_i(x) dx = 1 - {\rm erf}(-\frac{|x-\mu_i|}{\sqrt{2\sigma_i^2}}) \]
+\form#8:\[ C_i(x) = \left\{ \begin{array}{cl} 1 & \quad \mbox{if } x = \mu_i \\ 0 & \quad \mbox{if } x \ne \mu_i \end{array} \right. \]
+\form#9:$ a x + b y = d $

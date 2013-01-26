@@ -1,0 +1,4 @@
+base referer
+rect $classPartitioner_1_1ByteRangeCallback.html 5,7 221,33
+rect $classPartitioner_1_1CodeCriteria.html 245,7 419,33
+rect $classRangeMap.html 443,7 584,33

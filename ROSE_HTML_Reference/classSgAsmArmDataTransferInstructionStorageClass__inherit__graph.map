@@ -1,0 +1,11 @@
+base referer
+rect $classSgAsmArmArithmeticInstructionStorageClass.html 644,7 935,31
+rect $classSgAsmArmLdmStorageClass.html 692,55 887,79
+rect $classSgAsmArmLdrStorageClass.html 695,103 884,127
+rect $classSgAsmArmMovStorageClass.html 692,151 887,175
+rect $classSgAsmArmMrsStorageClass.html 693,199 885,223
+rect $classSgAsmArmMsrStorageClass.html 693,247 885,271
+rect $classSgAsmArmMvnStorageClass.html 692,295 887,319
+rect $classSgAsmArmStmStorageClass.html 692,343 887,367
+rect $classSgAsmArmStrStorageClass.html 696,391 883,415
+rect $classSgAsmArmInstructionStorageClass.html 7,199 239,223

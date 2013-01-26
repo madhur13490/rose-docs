@@ -1,0 +1,9 @@
+base referer
+rect $classSgSupport.html 623,92 708,119
+rect $classSgName.html 583,175 657,201
+rect $classSgNode.html 683,9 752,36
+rect $classSgType.html 732,289 799,316
+rect $classSgExpression.html 807,175 913,201
+rect $classSgTemplateDeclaration.html 415,289 583,316
+rect $classSgDeclarationStatement.html 5,175 181,201
+rect $classSgScopeStatement.html 417,175 559,201

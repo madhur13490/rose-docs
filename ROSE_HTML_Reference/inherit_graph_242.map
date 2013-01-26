@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$classSgCopyHelp.html" title="Supporting class from copy mechanism within ROSE." alt="" coords="7,31,105,57"/>
+<area shape="rect" href="$classSgShallowCopy.html" title="Supporting class for &quot;Shallow&quot; copies of the AST." alt="" coords="156,5,273,32"/>
+<area shape="rect" href="$classSgTreeCopy.html" title="Supporting class for &quot;Deep&quot; copies of the AST." alt="" coords="165,56,264,83"/>
+</map>

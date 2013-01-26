@@ -1,0 +1,6 @@
+base referer
+rect $structPreprocessingInfo_1_1r__macro__call.html 501,335 728,361
+rect $structPreprocessingInfo_1_1r__include__directive.html 315,131 579,157
+rect $structPreprocessingInfo_1_1r__macro__def.html 603,131 829,157
+rect $classSg__File__Info.html 853,131 949,157
+rect $classSgSupport.html 859,7 944,33

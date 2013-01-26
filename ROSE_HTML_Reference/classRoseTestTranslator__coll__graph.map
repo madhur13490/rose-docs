@@ -1,0 +1,9 @@
+base referer
+rect $classCppToVendorTranslator.html 255,545 423,572
+rect $classCppToCppTranslator.html 264,465 413,492
+rect $classSgProject.html 299,369 379,396
+rect $classSgSupport.html 296,92 381,119
+rect $classSgFileList.html 224,188 301,215
+rect $classSgDirectoryList.html 376,188 493,215
+rect $classSgNode.html 304,9 373,36
+rect $classAstAttributeMechanism.html 5,92 171,119

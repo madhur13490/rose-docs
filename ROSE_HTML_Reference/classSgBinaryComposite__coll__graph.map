@@ -1,0 +1,9 @@
+base referer
+rect $classSgFile.html 479,284 535,311
+rect $classSgSupport.html 392,7 477,33
+rect $classSg__File__Info.html 443,119 539,145
+rect $classROSEAttributesListContainer.html 5,119 205,145
+rect $classAstAttributeMechanism.html 529,7 695,33
+rect $classSgAsmNode.html 835,119 933,145
+rect $classSgAsmGenericFileList.html 835,284 992,311
+rect $classSgAsmInterpretationList.html 640,284 811,311

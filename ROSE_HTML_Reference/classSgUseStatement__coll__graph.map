@@ -1,0 +1,8 @@
+base referer
+rect $classSgDeclarationStatement.html 191,207 367,233
+rect $classSgClassDeclaration.html 209,305 353,332
+rect $classSgStatement.html 71,105 172,132
+rect $classSgLabelRefExp.html 5,7 123,33
+rect $classSgModuleStatement.html 208,401 355,428
+rect $classSgDeclarationModifier.html 199,105 359,132
+rect $classSgName.html 603,207 677,233

@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmElfSectionTableEntryStorageClass.html 591,7 857,31
+rect $classSgAsmElfSegmentEntryListStorageClass.html 591,55 857,79
+rect $classSgAsmElfSegmentEntryStorageClass.html 601,103 847,127
+rect $classSgAsmElfSegmentTableEntryStorageClass.html 585,151 863,175
+rect $classSgAsmElfSymbolListStorageClass.html 611,199 837,223
+rect $classSgAsmElfSymbolStorageClass.html 621,247 827,271
+rect $classSgAsmExecutableFileFormatStorageClass.html 7,127 281,151

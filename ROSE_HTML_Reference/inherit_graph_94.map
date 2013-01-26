@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" href="$structFindConstantsPolicy.html" title="FindConstantsPolicy" alt="" coords="7,31,148,57"/>
+<area shape="rect" href="$classCdeclFunctionPolicy.html" title="Augment the findConstants policy to do some special things for some instructions." alt="" coords="208,5,352,32"/>
+<area shape="rect" href="$classFindConstantsABIPolicy.html" title="Instruction semantics policy for API&#45;compliant function calls." alt="" coords="199,56,361,83"/>
+</map>

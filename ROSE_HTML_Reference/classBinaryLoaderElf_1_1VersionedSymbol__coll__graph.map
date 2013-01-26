@@ -1,0 +1,5 @@
+base referer
+rect $classSgAsmElfSymverEntry.html 5,7 171,33
+rect $classSgAsmElfSymverNeededAux.html 195,7 400,33
+rect $classSgAsmElfSymbol.html 424,7 555,33
+rect $classSgAsmElfSymverDefinedEntry.html 579,7 795,33

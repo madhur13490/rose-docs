@@ -1,0 +1,6 @@
+base referer
+rect $classSgClassDecl__attr.html 5,316 133,343
+rect $classSgFuncDecl__attr.html 157,316 280,343
+rect $classSgAttribute.html 99,161 189,188
+rect $classSgSupport.html 101,84 187,111
+rect $classSgNode.html 109,7 179,33

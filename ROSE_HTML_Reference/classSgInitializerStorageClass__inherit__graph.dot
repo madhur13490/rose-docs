@@ -1,0 +1,18 @@
+digraph G
+{
+  edge [fontname="Helvetica",fontsize=10,labelfontname="Helvetica",labelfontsize=10];
+  node [fontname="Helvetica",fontsize=10,shape=record];
+  Node1 [label="SgInitializerStorageClass",height=0.2,width=0.4,color="white", fillcolor="black", style="filled" fontcolor="white"];
+  Node2 -> Node1 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node2 [label="SgExpressionStorageClass",height=0.2,width=0.4,color="black",URL="$classSgExpressionStorageClass.html"];
+  Node3 -> Node2 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node3 [label="SgLocatedNodeStorageClass",height=0.2,width=0.4,color="red",URL="$classSgLocatedNodeStorageClass.html"];
+  Node1 -> Node4 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node4 [label="SgAggregateInitializerStorageClass",height=0.2,width=0.4,color="black",URL="$classSgAggregateInitializerStorageClass.html"];
+  Node1 -> Node5 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node5 [label="SgAssignInitializerStorageClass",height=0.2,width=0.4,color="black",URL="$classSgAssignInitializerStorageClass.html"];
+  Node1 -> Node6 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node6 [label="SgConstructorInitializerStorageClass",height=0.2,width=0.4,color="black",URL="$classSgConstructorInitializerStorageClass.html"];
+  Node1 -> Node7 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="Helvetica"];
+  Node7 [label="SgDesignatedInitializerStorageClass",height=0.2,width=0.4,color="black",URL="$classSgDesignatedInitializerStorageClass.html"];
+}

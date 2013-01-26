@@ -1,0 +1,7 @@
+base referer
+rect $classSgEntryStatement.html 501,5 637,32
+rect $classSgMemberFunctionDeclaration.html 461,56 677,83
+rect $classSgProcedureHeaderStatement.html 464,107 675,133
+rect $classSgProgramHeaderStatement.html 469,157 669,184
+rect $classSgTemplateInstantiationFunctionDecl.html 443,208 696,235
+rect $classSgDeclarationStatement.html 5,107 181,133

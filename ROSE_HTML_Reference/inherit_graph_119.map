@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$structMemoryMap_1_1Exception.html" title="Exceptions for MemoryMap operations." alt="" coords="5,81,168,108"/>
+<area shape="rect" href="$structMemoryMap_1_1Inconsistent.html" title="Exception for an inconsistent mapping." alt="" coords="225,5,396,32"/>
+<area shape="rect" href="$structMemoryMap_1_1NoFreeSpace.html" title="Exception thrown by find_free() when there&#39;s not enough free space left." alt="" coords="217,56,404,83"/>
+<area shape="rect" href="$structMemoryMap_1_1NotMapped.html" title="Exception for when we try to access a virtual address that isn&#39;t mapped." alt="" coords="224,107,397,133"/>
+<area shape="rect" href="$structMemoryMap_1_1Syntax.html" title="Exception thrown by load() when there&#39;s a syntax error in the index file." alt="" coords="239,157,383,184"/>
+</map>

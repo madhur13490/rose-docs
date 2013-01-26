@@ -1,0 +1,4 @@
+base referer
+rect $classSgFunctionDeclaration.html 127,119 289,145
+rect $classSgName.html 171,7 245,33
+rect $classSgTemplateDeclaration.html 313,119 481,145

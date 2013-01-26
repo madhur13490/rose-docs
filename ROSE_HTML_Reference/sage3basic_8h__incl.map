@@ -1,0 +1,13 @@
+base referer
+rect $fileoffsetbits_8h.html 193,107 305,133
+rect $rosedll_8h.html 579,531 653,557
+rect $rosedefs_8h.html 205,411 293,437
+rect $rose__attributes__list_8h.html 175,461 324,488
+rect $string__functions_8h.html 183,512 316,539
+rect $escape_8h.html 209,563 289,589
+rect $sla_8h.html 224,613 275,640
+rect $AstAttributeMechanism_8h.html 160,664 339,691
+rect $Cxx__Grammar_8h.html 388,436 513,463
+rect $utility__functions_8h.html 184,157 315,184
+rect $sageInterface_8h.html 189,867 309,893
+rect $manglingSupport_8h.html 179,917 320,944

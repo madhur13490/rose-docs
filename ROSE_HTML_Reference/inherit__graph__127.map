@@ -1,0 +1,5 @@
+base referer
+rect $classDisassembler.html 7,56 113,83
+rect $classDisassemblerArm.html 176,5 312,32
+rect $classDisassemblerPowerpc.html 163,56 325,83
+rect $classDisassemblerX86.html 177,107 311,133

@@ -1,0 +1,4 @@
+base referer
+rect $filteredCFG_8h.html 247,185 351,212
+rect $virtualCFG_8h.html 460,59 559,85
+rect $filteredCFGImpl_8h.html 444,211 575,237

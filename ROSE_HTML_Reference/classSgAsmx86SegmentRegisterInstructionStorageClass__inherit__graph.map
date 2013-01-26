@@ -1,0 +1,7 @@
+base referer
+rect $classSgAsmx86LdsStorageClass.html 664,7 851,31
+rect $classSgAsmx86LesStorageClass.html 664,55 851,79
+rect $classSgAsmx86LfsStorageClass.html 666,103 850,127
+rect $classSgAsmx86LgsStorageClass.html 664,151 851,175
+rect $classSgAsmx86LssStorageClass.html 664,199 851,223
+rect $classSgAsmx86InstructionStorageClass.html 8,103 235,127

@@ -1,0 +1,6 @@
+base referer
+rect $classMemoryMap_1_1Exception.html 7,81 177,108
+rect $structMemoryMap_1_1Inconsistent.html 232,5 416,32
+rect $structMemoryMap_1_1NoFreeSpace.html 227,56 421,83
+rect $structMemoryMap_1_1NotMapped.html 235,107 413,133
+rect $structMemoryMap_1_1SyntaxError.html 232,157 416,184

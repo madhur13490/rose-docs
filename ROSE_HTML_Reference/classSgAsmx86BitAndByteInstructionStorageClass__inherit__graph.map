@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmx86BsfStorageClass.html 728,7 915,31
+rect $classSgAsmx86BsrStorageClass.html 728,55 915,79
+rect $classSgAsmx86BtcStorageClass.html 728,103 915,127
+rect $classSgAsmx86BtrStorageClass.html 729,151 913,175
+rect $classSgAsmx86BtsStorageClass.html 728,199 915,223
+rect $classSgAsmx86BtStorageClass.html 732,247 911,271
+rect $classSgAsmx86ConditionalFlagBitAndByteInstructionStorageClass.html 628,295 1015,319
+rect $classSgAsmx86InstructionStorageClass.html 8,151 235,175

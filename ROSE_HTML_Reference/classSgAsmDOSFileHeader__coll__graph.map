@@ -1,0 +1,5 @@
+base referer
+rect $classSgAsmGenericHeader.html 5,7 168,33
+rect $classSgAsmGenericSection.html 80,103 243,129
+rect $structSgAsmDOSFileHeader_1_1DOSRelocEntry__disk.html 267,103 568,129
+rect $structSgAsmDOSFileHeader_1_1DOSFileHeader__disk.html 592,103 891,129

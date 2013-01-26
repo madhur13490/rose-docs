@@ -1,0 +1,7 @@
+base referer
+rect $classSgAsmx86FloatingPointInstructionStorageClass.html 7,381 311,405
+rect $classSgAsmx86InstructionStorageClass.html 45,307 272,331
+rect $classSgAsmInstructionStorageClass.html 56,232 261,256
+rect $classSgAsmStatementStorageClass.html 56,157 261,181
+rect $classSgAsmNodeStorageClass.html 71,83 247,107
+rect $classSgNodeStorageClass.html 84,8 233,32

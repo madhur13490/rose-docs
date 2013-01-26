@@ -1,0 +1,8 @@
+base referer
+rect $classSgAsmGenericString.html 97,280 244,304
+rect $classSgAsmExecutableFileFormat.html 213,203 408,227
+rect $classSgAsmElfStringStorage.html 373,280 536,304
+rect $classSgAsmNode.html 353,99 449,123
+rect $classmutex.html 372,8 431,32
+rect $classSgAsmElfStrtab.html 587,371 704,395
+rect $classSgAsmElfSection.html 721,151 847,175

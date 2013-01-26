@@ -1,0 +1,7 @@
+<map id="structs" name="structs">
+<area shape="rect" href="$group__ROSE__ProgramAnalysisGroup.html" title="This is the location of numerous program analysies that operate on the AST and may be called within t..." alt="" coords="185,5,353,32"/>
+<area shape="rect" href="$group__RewriteMechanism.html" title="The AST Rewrite Mechanism permits the editing of an applications AST." alt="" coords="187,56,352,83"/>
+<area shape="rect" href="$group__ROSE__LoopProcessingGroup.html" title="This is the location of numerous loop optimizations that operate on the AST and may be called within ..." alt="" coords="184,107,355,133"/>
+<area shape="rect" href="$group__AstProcessingClasses.html" title="This is the AST Processing Mechanism for traversing the AST and computing attributes." alt="" coords="212,157,327,184"/>
+<area shape="rect" href="$group__ROSE__ProgramTransformationGroup.html" title="This is the location of numerous program transformation that operate on the AST and may be called wit..." alt="" coords="164,208,375,235"/>
+</map>

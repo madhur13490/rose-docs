@@ -1,0 +1,4 @@
+base referer
+rect $classVariable.html 5,31 77,57
+rect $structMemoryVariable.html 131,5 253,32
+rect $structXVariable.html 125,56 259,83

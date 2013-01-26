@@ -1,0 +1,4 @@
+base referer
+rect $classStaticCFG_1_1CFG.html 5,31 125,57
+rect $classStaticCFG_1_1CustomFilteredCFG.html 173,5 453,32
+rect $classStaticCFG_1_1InterproceduralCFG.html 205,56 421,83

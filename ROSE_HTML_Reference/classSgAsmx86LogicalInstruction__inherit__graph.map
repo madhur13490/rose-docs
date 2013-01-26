@@ -1,0 +1,11 @@
+base referer
+rect $classSgAsmx86And.html 456,7 565,31
+rect $classSgAsmx86Andnpd.html 445,55 576,79
+rect $classSgAsmx86Andpd.html 448,103 573,127
+rect $classSgAsmx86Not.html 457,151 564,175
+rect $classSgAsmx86Or.html 460,199 561,223
+rect $classSgAsmx86Pand.html 452,247 569,271
+rect $classSgAsmx86Pandn.html 448,295 573,319
+rect $classSgAsmx86Pxor.html 453,343 568,367
+rect $classSgAsmx86Xor.html 457,391 564,415
+rect $classSgAsmx86Instruction.html 8,199 155,223

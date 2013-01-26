@@ -1,0 +1,13 @@
+base referer
+rect $classSgBackspaceStatementStorageClass.html 477,7 720,31
+rect $classSgCloseStatementStorageClass.html 492,55 705,79
+rect $classSgEndfileStatementStorageClass.html 489,103 708,127
+rect $classSgFlushStatementStorageClass.html 493,151 704,175
+rect $classSgInquireStatementStorageClass.html 489,199 708,223
+rect $classSgOpenStatementStorageClass.html 493,247 704,271
+rect $classSgPrintStatementStorageClass.html 496,295 701,319
+rect $classSgReadStatementStorageClass.html 493,343 704,367
+rect $classSgRewindStatementStorageClass.html 487,391 711,415
+rect $classSgWaitStatementStorageClass.html 496,439 701,463
+rect $classSgWriteStatementStorageClass.html 495,487 703,511
+rect $classSgStatementStorageClass.html 7,247 185,271

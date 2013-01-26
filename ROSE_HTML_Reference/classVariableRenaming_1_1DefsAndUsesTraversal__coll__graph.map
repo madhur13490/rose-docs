@@ -1,0 +1,12 @@
+base referer
+rect $classAstBottomUpProcessing.html 445,295 835,321
+rect $classSgTreeTraversal.html 500,199 857,225
+rect $classStackFrameVector.html 731,103 904,129
+rect $classSgFile.html 651,103 707,129
+rect $classSgSupport.html 237,7 323,33
+rect $classSgProject.html 300,199 380,225
+rect $classSgFileList.html 301,103 379,129
+rect $classSgDirectoryList.html 100,103 217,129
+rect $classAstAttributeMechanism.html 452,7 617,33
+rect $classVariableRenaming.html 272,295 408,321
+rect $classSgInitializedName.html 5,199 139,225

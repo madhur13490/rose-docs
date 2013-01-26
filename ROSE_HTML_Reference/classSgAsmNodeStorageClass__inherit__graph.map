@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmExecutableFileFormatStorageClass.html 434,7 708,31
+rect $classSgAsmExpressionStorageClass.html 466,55 676,79
+rect $classSgAsmFileStorageClass.html 488,103 654,127
+rect $classSgAsmInterpretationStorageClass.html 459,151 683,175
+rect $classSgAsmOperandListStorageClass.html 463,199 679,223
+rect $classSgAsmStatementStorageClass.html 468,247 674,271
+rect $classSgAsmTypeStorageClass.html 484,295 658,319
+rect $classSgNodeStorageClass.html 8,151 158,175

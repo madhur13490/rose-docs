@@ -1,0 +1,4 @@
+base referer
+rect $classSgDeclarationStatement.html 220,223 396,249
+rect $classSgStatement.html 500,105 601,132
+rect $classSgDeclarationModifier.html 316,105 476,132

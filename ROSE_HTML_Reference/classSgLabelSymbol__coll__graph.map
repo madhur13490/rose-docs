@@ -1,0 +1,5 @@
+base referer
+rect $classSgSymbol.html 5,103 91,129
+rect $classSgStatement.html 265,7 367,33
+rect $classSgLabelStatement.html 292,103 428,129
+rect $classSgInitializedName.html 452,103 585,129

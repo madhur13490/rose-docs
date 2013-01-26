@@ -1,0 +1,9 @@
+base referer
+rect $classSgAsmx86Bsf.html 568,7 675,31
+rect $classSgAsmx86Bsr.html 568,55 675,79
+rect $classSgAsmx86Bt.html 572,103 671,127
+rect $classSgAsmx86Btc.html 568,151 675,175
+rect $classSgAsmx86Btr.html 569,199 673,223
+rect $classSgAsmx86Bts.html 568,247 675,271
+rect $classSgAsmx86ConditionalFlagBitAndByteInstruction.html 468,295 775,319
+rect $classSgAsmx86Instruction.html 8,151 155,175

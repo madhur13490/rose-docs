@@ -1,0 +1,9 @@
+base referer
+rect $integerOps_8h.html 463,31 567,57
+rect $x86InstructionSemantics_8h.html 188,157 377,184
+rect $Partitioner_8h.html 687,272 783,299
+rect $semanticsModule_8h.html 443,132 587,159
+rect $AsmUnparser__compat_8h.html 427,183 603,209
+rect $AsmUnparser_8h.html 675,221 795,248
+rect $callbacks_8h.html 880,272 973,299
+rect $Disassembler_8h.html 867,221 987,248

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$classDisassembler_1_1Exception.html" title="Exception thrown by the disassemblers." alt="" coords="5,5,173,32"/>
+<area shape="rect" href="$classDisassemblerX86_1_1ExceptionX86.html" title="Same as Disassembler::Exception except with a different constructor for ease of use in DisassemblerX8..." alt="" coords="223,5,439,32"/>
+</map>

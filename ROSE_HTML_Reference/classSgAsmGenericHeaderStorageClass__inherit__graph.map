@@ -1,0 +1,7 @@
+base referer
+rect $classSgAsmDOSFileHeaderStorageClass.html 576,7 813,31
+rect $classSgAsmElfFileHeaderStorageClass.html 583,55 807,79
+rect $classSgAsmLEFileHeaderStorageClass.html 581,103 808,127
+rect $classSgAsmNEFileHeaderStorageClass.html 581,151 808,175
+rect $classSgAsmPEFileHeaderStorageClass.html 581,199 808,223
+rect $classSgAsmGenericSectionStorageClass.html 8,103 243,127

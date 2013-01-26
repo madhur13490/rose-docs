@@ -1,0 +1,5 @@
+base referer
+rect $classBinaryLoader.html 7,31 111,57
+rect $classBinaryLoaderElf.html 161,5 281,32
+rect $classBinaryLoaderPe.html 161,56 281,83
+rect $classBinaryLoaderElfObj.html 332,5 473,32

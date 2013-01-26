@@ -1,0 +1,7 @@
+base referer
+rect $classSgClinkageEndStatement.html 5,393 187,420
+rect $classSgClinkageStartStatement.html 211,393 397,420
+rect $classSgDeclarationStatement.html 112,239 288,265
+rect $classSgStatement.html 149,161 251,188
+rect $classSgLocatedNode.html 140,84 260,111
+rect $classSgNode.html 165,7 235,33

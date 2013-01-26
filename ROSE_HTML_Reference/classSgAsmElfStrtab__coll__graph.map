@@ -1,0 +1,11 @@
+base referer
+rect $classSgAsmGenericStrtab.html 89,391 241,417
+rect $classSgAsmStringStorage.html 180,487 332,513
+rect $classSgAsmExecutableFileFormat.html 255,87 457,113
+rect $classSgAsmGenericSection.html 463,295 625,321
+rect $classSgAsmGenericFile.html 641,199 777,225
+rect $classSgAsmGenericString.html 324,199 476,225
+rect $classSgAsmNode.html 307,7 405,33
+rect $classSgAsmGenericHeader.html 464,391 627,417
+rect $classSgSharedVector.html 571,87 744,113
+rect $classExtentMap.html 128,87 216,113

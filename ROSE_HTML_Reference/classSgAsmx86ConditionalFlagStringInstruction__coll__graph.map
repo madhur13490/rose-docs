@@ -1,0 +1,5 @@
+base referer
+rect $classSgAsmx86StringInstruction.html 147,267 331,291
+rect $classSgAsmx86Instruction.html 285,190 432,214
+rect $classSgAsmInstruction.html 483,99 608,123
+rect $classmutex.html 269,8 328,32

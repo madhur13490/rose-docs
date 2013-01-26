@@ -1,0 +1,4 @@
+base referer
+rect $classConstraint.html 24,103 109,129
+rect $structXVariablePtr.html 133,103 325,129
+rect $structXVariablePtr.html 155,7 304,33

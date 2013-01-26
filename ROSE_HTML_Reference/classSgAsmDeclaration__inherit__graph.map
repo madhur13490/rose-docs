@@ -1,0 +1,7 @@
+base referer
+rect $classSgAsmDataStructureDeclaration.html 5,316 232,343
+rect $classSgAsmFieldDeclaration.html 256,316 424,343
+rect $classSgAsmFunctionDeclaration.html 448,316 640,343
+rect $classSgAsmStatement.html 275,161 405,188
+rect $classSgAsmNode.html 291,84 389,111
+rect $classSgNode.html 305,7 375,33

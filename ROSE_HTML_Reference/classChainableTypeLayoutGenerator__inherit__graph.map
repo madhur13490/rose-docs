@@ -1,0 +1,6 @@
+base referer
+rect $classCustomizedPrimitiveTypeLayoutGenerator.html 279,5 567,32
+rect $classI386PrimitiveTypeLayoutGenerator.html 304,56 541,83
+rect $classNonpackedTypeLayoutGenerator.html 308,107 537,133
+rect $classSystemPrimitiveTypeLayoutGenerator.html 293,157 552,184
+rect $classX86__64PrimitiveTypeLayoutGenerator.html 293,208 552,235

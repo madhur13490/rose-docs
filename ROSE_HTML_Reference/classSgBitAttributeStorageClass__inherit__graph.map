@@ -1,0 +1,6 @@
+base referer
+rect $classSgClassDecl__attrStorageClass.html 7,307 212,331
+rect $classSgFuncDecl__attrStorageClass.html 236,307 436,331
+rect $classSgAttributeStorageClass.html 139,158 307,182
+rect $classSgSupportStorageClass.html 140,83 306,107
+rect $classSgNodeStorageClass.html 148,8 298,32

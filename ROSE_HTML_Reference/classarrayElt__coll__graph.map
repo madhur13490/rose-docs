@@ -1,0 +1,15 @@
+base referer
+rect $classvariable.html 5,471 77,497
+rect $classvarID.html 92,567 148,593
+rect $classSgType.html 429,471 496,497
+rect $classSgPointerType.html 485,567 595,593
+rect $classSgReferenceType.html 323,567 459,593
+rect $classSgNode.html 365,105 435,132
+rect $classSgSupport.html 357,188 443,215
+rect $classSgFunctionTypeTable.html 323,7 477,33
+rect $classSgTypeTable.html 468,268 569,295
+rect $classSgModifier.html 356,268 444,295
+rect $classSgTypedefSeq.html 263,321 375,348
+rect $classSgExpression.html 617,375 724,401
+rect $classSgModifierNodes.html 399,375 527,401
+rect $classAstAttributeMechanism.html 748,375 913,401

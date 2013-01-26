@@ -1,0 +1,12 @@
+base referer
+rect $classSgAsmGenericHeaderStorageClass.html 205,280 440,304
+rect $classSgAsmGenericSectionStorageClass.html 183,189 417,213
+rect $classSgAsmExecutableFileFormatStorageClass.html 7,99 281,123
+rect $classExtentMap.html 305,99 391,123
+rect $classSgAsmGenericSection.html 520,189 675,213
+rect $classrose__rva__t.html 645,280 731,304
+rect $classSgAsmGenericHeader.html 467,280 621,304
+rect $classSgAsmExecutableFileFormat.html 485,8 680,32
+rect $classSgAsmGenericFile.html 636,99 769,123
+rect $classSgAsmGenericString.html 415,99 561,123
+rect $classSgSharedVector.html 704,8 931,32

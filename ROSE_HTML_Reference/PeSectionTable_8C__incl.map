@@ -1,0 +1,4 @@
+base referer
+rect $sage3basic_8h.html 189,5 296,32
+rect $BinaryLoader_8h.html 184,56 301,83
+rect $MemoryMap_8h.html 187,107 299,133

@@ -1,0 +1,12 @@
+base referer
+rect $classSgAsmType128bitFloat.html 321,5 487,32
+rect $classSgAsmType80bitFloat.html 325,56 483,83
+rect $classSgAsmTypeByte.html 343,107 465,133
+rect $classSgAsmTypeDoubleFloat.html 319,157 489,184
+rect $classSgAsmTypeDoubleQuadWord.html 300,208 508,235
+rect $classSgAsmTypeDoubleWord.html 317,259 491,285
+rect $classSgAsmTypeQuadWord.html 323,309 485,336
+rect $classSgAsmTypeSingleFloat.html 323,360 485,387
+rect $classSgAsmTypeVector.html 335,411 473,437
+rect $classSgAsmTypeWord.html 339,461 469,488
+rect $classSgAsmNode.html 7,233 105,260

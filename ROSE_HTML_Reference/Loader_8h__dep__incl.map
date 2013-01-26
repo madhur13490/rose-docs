@@ -1,0 +1,10 @@
+base referer
+rect $ExecGeneric_8C.html 137,5 255,32
+rect $Loader_8C.html 157,56 235,83
+rect $LoaderELF_8C.html 145,107 247,133
+rect $LoaderELFObj_8C.html 135,157 257,184
+rect $LoaderPE_8C.html 149,208 243,235
+rect $MemoryMap_8C.html 140,259 252,285
+rect $PeFileHeader_8C.html 137,309 255,336
+rect $PeImport_8C.html 151,360 241,387
+rect $PeSectionTable_8C.html 132,411 260,437

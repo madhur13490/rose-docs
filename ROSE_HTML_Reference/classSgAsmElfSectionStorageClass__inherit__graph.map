@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmElfDynamicSectionStorageClass.html 547,7 803,31
+rect $classSgAsmElfRelaSectionStorageClass.html 559,55 791,79
+rect $classSgAsmElfStringSectionStorageClass.html 555,103 795,127
+rect $classSgAsmElfSymbolSectionStorageClass.html 550,151 800,175
+rect $classSgAsmGenericSectionStorageClass.html 8,79 243,103

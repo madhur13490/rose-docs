@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" href="$classCppToCppTranslator.html" title="Default Cpp2Cpp Translator." alt="" coords="7,56,151,83"/>
+<area shape="rect" href="$classCppToDotTranslator.html" title="CppToDotTranslator" alt="" coords="213,5,352,32"/>
+<area shape="rect" href="$classCppToPdfTranslator.html" title="CppToPdfTranslator" alt="" coords="213,56,352,83"/>
+<area shape="rect" href="$classCppToVendorTranslator.html" title="CppToVendorTranslator" alt="" coords="201,107,364,133"/>
+<area shape="rect" href="$classRoseTestTranslator.html" title="RoseTestTranslator" alt="" coords="413,107,547,133"/>
+</map>

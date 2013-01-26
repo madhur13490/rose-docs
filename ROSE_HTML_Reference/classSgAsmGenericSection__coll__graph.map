@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmGenericHeader.html 193,295 356,321
+rect $classSgAsmExecutableFileFormat.html 5,7 208,33
+rect $classSgAsmGenericFile.html 207,103 343,129
+rect $classSgAsmGenericString.html 31,103 183,129
+rect $classSgSharedVector.html 256,7 429,33

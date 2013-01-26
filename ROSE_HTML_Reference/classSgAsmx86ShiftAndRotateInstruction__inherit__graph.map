@@ -1,0 +1,13 @@
+base referer
+rect $classSgAsmx86Psll.html 496,7 603,31
+rect $classSgAsmx86Psrl.html 495,55 604,79
+rect $classSgAsmx86Rcl.html 496,103 603,127
+rect $classSgAsmx86Rcr.html 496,151 603,175
+rect $classSgAsmx86Rol.html 496,199 603,223
+rect $classSgAsmx86Ror.html 496,247 603,271
+rect $classSgAsmx86Sar.html 496,295 603,319
+rect $classSgAsmx86Shl.html 496,343 603,367
+rect $classSgAsmx86Shld.html 493,391 605,415
+rect $classSgAsmx86Shr.html 496,439 603,463
+rect $classSgAsmx86Shrd.html 492,487 607,511
+rect $classSgAsmx86Instruction.html 8,247 155,271

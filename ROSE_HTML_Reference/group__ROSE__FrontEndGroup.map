@@ -1,0 +1,7 @@
+<map id="structs" name="structs">
+<area shape="rect" href="$group__frontendSageHighLevelInterface.html" title="This namespace contains high level SAGE III AST node and subtree builders." alt="" coords="223,5,383,32"/>
+<area shape="rect" href="$group__SageClasses.html" title="This class represents the Abstract Syntax Tree (AST) Intermediate Repesentation (IR) used within ROSE..." alt="" coords="171,56,435,83"/>
+<area shape="rect" href="$group__frontendGeneratorFortran.html" title="The Fortran frontend reads in source code and builds an AST which is translated to the Sage III AST w..." alt="" coords="215,107,391,133"/>
+<area shape="rect" href="$group__frontendGenerator.html" title="C and C++ Frontend reads in source code and builds an AST which is translated to the Sage III AST whe..." alt="" coords="219,157,387,184"/>
+<area shape="rect" href="$group__frontendSageUtilityFunctions.html" title="This namespace is to organize functions that are useful when operating on the AST." alt="" coords="177,208,428,235"/>
+</map>

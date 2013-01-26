@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" href="$classAstAttributeMechanism.html" title="This mechanism provides capabilities to define a mapping from strings to AstAttributes. An instance of this class is accessible at each ROSE AST node in the data member &#39;attribute&#39;." alt="" coords="7,5,161,32"/>
+</map>

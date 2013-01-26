@@ -1,0 +1,10 @@
+base referer
+rect $classSgAsmExecutableFileFormat.html 204,373 399,397
+rect $classSgAsmNode.html 254,296 350,320
+rect $classSgNode.html 87,191 156,215
+rect $classSgFunctionTypeTable.html 48,99 195,123
+rect $classSgStatement.html 7,8 106,32
+rect $classSgSymbolTable.html 130,8 244,32
+rect $classAstAttributeMechanism.html 283,191 443,215
+rect $structSgAsmElfRelaEntry_1_1Elf64RelaEntry__disk.html 423,373 690,397
+rect $structSgAsmElfRelaEntry_1_1Elf32RelaEntry__disk.html 714,373 980,397

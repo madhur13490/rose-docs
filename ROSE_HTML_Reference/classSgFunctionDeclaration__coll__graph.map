@@ -1,0 +1,10 @@
+base referer
+rect $classSgDeclarationStatement.html 371,144 547,171
+rect $classSgFunctionParameterList.html 763,144 939,171
+rect $classSgFunctionModifier.html 583,201 721,228
+rect $classSgName.html 615,261 689,288
+rect $classSgExprListExp.html 795,325 907,352
+rect $classSgFunctionDefinition.html 776,441 925,468
+rect $classSgScopeStatement.html 388,403 529,429
+rect $classSgFunctionType.html 791,492 911,519
+rect $classSgSpecialFunctionModifier.html 757,543 944,569

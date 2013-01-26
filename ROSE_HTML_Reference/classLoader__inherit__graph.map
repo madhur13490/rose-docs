@@ -1,0 +1,4 @@
+base referer
+rect $classLoaderELF.html 17,84 103,111
+rect $classLoaderPE.html 127,84 207,111
+rect $classLoaderELFObj.html 5,161 115,188

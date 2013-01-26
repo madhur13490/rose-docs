@@ -1,0 +1,8 @@
+base referer
+rect $classSgLocatedNodeSupport.html 253,5 424,32
+rect $classSgInitializer.html 292,56 385,83
+rect $classSgStorageModifier.html 271,107 407,133
+rect $classSgName.html 301,292 376,319
+rect $classSgDeclarationStatement.html 251,401 427,428
+rect $classSgScopeStatement.html 268,452 409,479
+rect $classSgType.html 305,503 372,529

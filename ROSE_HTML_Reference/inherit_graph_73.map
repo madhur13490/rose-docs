@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$classChainableTypeLayoutGenerator.html" title="Basic type layout engine &#45;&#45; handles bookkeeping, plus handing typedefs and." alt="" coords="5,107,219,133"/>
+<area shape="rect" href="$classCustomizedPrimitiveTypeLayoutGenerator.html" title="Layout generator for customized primitive types, mostly for UPC relying on Berkeley runtime library n..." alt="" coords="267,5,539,32"/>
+<area shape="rect" href="$classI386PrimitiveTypeLayoutGenerator.html" title="Layout generator for i386 primitive types." alt="" coords="288,56,517,83"/>
+<area shape="rect" href="$classNonpackedTypeLayoutGenerator.html" title="Layout generator for i386 ABI&#45;like struct layout." alt="" coords="292,107,513,133"/>
+<area shape="rect" href="$classSystemPrimitiveTypeLayoutGenerator.html" title="Layout generator for the native system (uses sizeof)" alt="" coords="280,157,525,184"/>
+<area shape="rect" href="$classX86__64PrimitiveTypeLayoutGenerator.html" title="Layout generator for x86&#45;64 primitive types." alt="" coords="277,208,528,235"/>
+<area shape="rect" href="$classI386__VSPrimitiveTypeLayoutGenerator.html" title="Slight modification for Visual Studio &#45;&#45; doubles are 8&#45;byte aligned." alt="" coords="597,56,853,83"/>
+<area shape="rect" href="$classX86__64__VSPrimitiveTypeLayoutGenerator.html" title="Slight modification for Visual Studio &#45;&#45; long is 4 bytes, not 8." alt="" coords="588,208,863,235"/>
+</map>

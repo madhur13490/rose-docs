@@ -1,0 +1,5 @@
+base referer
+rect $classCppToDotTranslator.html 5,84 149,111
+rect $classCppToPdfTranslator.html 173,84 317,111
+rect $classCppToVendorTranslator.html 341,84 509,111
+rect $classRoseTestTranslator.html 355,161 496,188

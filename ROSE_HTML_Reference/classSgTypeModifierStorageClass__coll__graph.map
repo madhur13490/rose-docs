@@ -1,0 +1,7 @@
+base referer
+rect $classSgModifierStorageClass.html 255,163 420,187
+rect $classSgElaboratedTypeModifierStorageClass.html 72,240 331,264
+rect $classSgUPC__AccessModifierStorageClass.html 355,240 597,264
+rect $classSgConstVolatileModifierStorageClass.html 621,240 864,264
+rect $classSgSupportStorageClass.html 255,86 420,110
+rect $classSgNodeStorageClass.html 263,8 412,32

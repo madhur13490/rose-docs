@@ -1,0 +1,15 @@
+base referer
+rect $classSgAsmx86Arpl.html 439,7 548,31
+rect $classSgAsmx86Cpuid.html 433,55 553,79
+rect $classSgAsmx86Data16.html 429,103 557,127
+rect $classSgAsmx86Emms.html 431,151 556,175
+rect $classSgAsmx86Esc.html 439,199 548,223
+rect $classSgAsmx86Lea.html 439,247 548,271
+rect $classSgAsmx86Lock.html 436,295 551,319
+rect $classSgAsmx86Nop.html 439,343 548,367
+rect $classSgAsmx86Pause.html 432,391 555,415
+rect $classSgAsmx86Rdtsc.html 433,439 553,463
+rect $classSgAsmx86Ud2.html 439,487 548,511
+rect $classSgAsmx86Wait.html 437,535 549,559
+rect $classSgAsmx86Xlat.html 439,583 548,607
+rect $classSgAsmx86Instruction.html 8,295 155,319

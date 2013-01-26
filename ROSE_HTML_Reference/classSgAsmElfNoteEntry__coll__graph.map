@@ -1,0 +1,15 @@
+base referer
+rect $classSgAsmExecutableFileFormat.html 408,412 611,439
+rect $classSgAsmGenericString.html 393,508 545,535
+rect $classSgAsmNode.html 460,316 559,343
+rect $classSgNode.html 633,201 703,228
+rect $classSgLocatedNode.html 199,316 319,343
+rect $classSgFunctionTypeTable.html 620,508 775,535
+rect $classSgStatement.html 211,412 312,439
+rect $classSgLabelSymbol.html 96,508 216,535
+rect $classSgExpression.html 5,412 112,439
+rect $classAstAttributeMechanism.html 185,201 351,228
+rect $classSg__File__Info.html 44,201 140,228
+rect $classSgLabelRefExp.html 97,604 215,631
+rect $classSgSymbolTable.html 756,7 873,33
+rect $classSgTypeTable.html 671,103 772,129

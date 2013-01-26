@@ -1,0 +1,12 @@
+base referer
+rect $classSgDeclarationStatement.html 195,377 371,404
+rect $classSgStatement.html 157,276 259,303
+rect $classSgLocatedNode.html 176,7 296,33
+rect $classSgExpression.html 104,87 211,113
+rect $classSgLabelRefExp.html 99,167 216,193
+rect $classSgExprListExp.html 5,220 117,247
+rect $classSgDeclarationModifier.html 561,276 721,303
+rect $classSgModifier.html 679,87 767,113
+rect $classSgTypeModifier.html 744,167 861,193
+rect $classSgStorageModifier.html 885,167 1021,193
+rect $classSgAccessModifier.html 523,167 656,193

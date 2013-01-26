@@ -1,0 +1,10 @@
+base referer
+rect $classSgExpression.html 268,199 375,225
+rect $classSgInitializer.html 568,332 661,359
+rect $classSgExprListExp.html 265,279 377,305
+rect $classSgType.html 659,481 725,508
+rect $classSgLocatedNode.html 156,119 276,145
+rect $classSg__File__Info.html 223,7 319,33
+rect $classSgConstructorInitializer.html 479,577 647,604
+rect $classSgFunctionDeclaration.html 240,385 403,412
+rect $classSgMemberFunctionDeclaration.html 309,481 525,508

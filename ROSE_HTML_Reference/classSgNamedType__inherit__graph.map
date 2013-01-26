@@ -1,0 +1,7 @@
+base referer
+rect $classSgClassType.html 5,239 107,265
+rect $classSgEnumType.html 131,239 235,265
+rect $classSgJavaParameterizedType.html 259,239 445,265
+rect $classSgTypedefType.html 469,239 587,265
+rect $classSgType.html 233,84 300,111
+rect $classSgNode.html 232,7 301,33

@@ -1,0 +1,6 @@
+base referer
+rect $structNullaryConstraint.html 76,295 257,321
+rect $classConstraint.html 27,103 112,129
+rect $structNullaryConstraint.html 55,199 279,225
+rect $structXVariablePtr.html 184,103 376,129
+rect $structXVariablePtr.html 205,7 355,33

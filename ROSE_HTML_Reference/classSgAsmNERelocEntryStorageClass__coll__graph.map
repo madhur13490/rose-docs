@@ -1,0 +1,6 @@
+base referer
+rect $classSgAsmExecutableFileFormatStorageClass.html 7,8 282,32
+rect $structSgAsmNERelocEntry_1_1iname__type.html 32,56 256,80
+rect $structSgAsmNERelocEntry_1_1osfixup__type.html 28,104 260,128
+rect $structSgAsmNERelocEntry_1_1iref__type.html 40,152 248,176
+rect $structSgAsmNERelocEntry_1_1iord__type.html 39,200 250,224

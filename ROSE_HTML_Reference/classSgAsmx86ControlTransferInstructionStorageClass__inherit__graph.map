@@ -1,0 +1,5 @@
+base referer
+rect $classSgAsmx86ConditionalControlTransferInstructionStorageClass.html 665,7 1049,31
+rect $classSgAsmx86ConditionalFlagControlTransferInstructionStorageClass.html 652,55 1063,79
+rect $classSgAsmx86UnConditionalControlTransferInstructionStorageClass.html 656,103 1059,127
+rect $classSgAsmx86InstructionStorageClass.html 8,55 235,79
