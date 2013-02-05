@@ -1,5 +1,0 @@
-SageBuilder Tutorials
-=====================
-
-## II - Generic
-
