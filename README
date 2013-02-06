@@ -1,5 +1,8 @@
-This is a directory containing essential ROSE documentations for developers.
-It serves as an alterative method to obtain ROSE docs when the main rosecompiler.org is down for whatever reason.
+# ROSE Documentation
+
+This is a mirror of the essential ROSE documents for users and developers from http://rosecompiler.org.
+
+Also see our alternate Downloads mirror: https://bitbucket.org/rosecompiler/rose/downloads.
 
 For manual and tutorial, you can directly download from the github web.
 
