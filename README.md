@@ -1,7 +1,11 @@
 # ROSE Documentation
 
-This is a mirror of the essential ROSE developer documents from http://rosecompiler.org.  Also see our alternate Downloads mirror: https://bitbucket.org/rosecompiler/rose/downloads.
+This is a mirror of the essential ROSE developer documents from http://rosecompiler.org.
 
+### Bitbucket Downloads Mirror
+Also see our alternate Downloads mirror: https://bitbucket.org/rosecompiler/rose/downloads.
+
+---
 ### User Manual
 Download the [rose-docs/user_manual/ROSE-UserManual.pdf](https://github.com/rose-compiler/rose-docs/blob/master/user_manual/ROSE-UserManual.pdf?raw=true).
 
